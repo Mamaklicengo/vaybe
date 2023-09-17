@@ -1,0 +1,3636 @@
+{
+    "adana": {
+        "adana": {
+            "iftar": "'19:12'",
+            "sahur": "'04:41'"
+        },
+        "aladag": {
+            "iftar": "'19:12'",
+            "sahur": "'04:40'"
+        },
+        "ceyhan": {
+            "iftar": "'19:10'",
+            "sahur": "'04:39'"
+        },
+        "feke": {
+            "iftar": "'19:10'",
+            "sahur": "'04:37'"
+        },
+        "imamoglu": {
+            "iftar": "'19:10'",
+            "sahur": "'04:39'"
+        },
+        "karaisali": {
+            "iftar": "'19:13'",
+            "sahur": "'04:42'"
+        },
+        "karatas": {
+            "iftar": "'19:11'",
+            "sahur": "'04:42'"
+        },
+        "kozan": {
+            "iftar": "'19:10'",
+            "sahur": "'04:38'"
+        },
+        "pozanti": {
+            "iftar": "'19:14'",
+            "sahur": "'04:42'"
+        },
+        "saimbeyli": {
+            "iftar": "'19:09'",
+            "sahur": "'04:36'"
+        },
+        "tufanbeyli": {
+            "iftar": "'19:09'",
+            "sahur": "'04:35'"
+        },
+        "yumurtalik": {
+            "iftar": "'19:10'",
+            "sahur": "'04:40'"
+        }
+    },
+    "adiyaman": {
+        "adiyaman": {
+            "iftar": "'19:00'",
+            "sahur": "'04:28'"
+        },
+        "besni": {
+            "iftar": "'19:02'",
+            "sahur": "'04:30'"
+        },
+        "celikhan": {
+            "iftar": "'19:01'",
+            "sahur": "'04:27'"
+        },
+        "gerger": {
+            "iftar": "'18:58'",
+            "sahur": "'04:24'"
+        },
+        "golbasi": {
+            "iftar": "'19:03'",
+            "sahur": "'04:30'"
+        },
+        "kahta": {
+            "iftar": "'18:59'",
+            "sahur": "'04:26'"
+        },
+        "samsat": {
+            "iftar": "'19:00'",
+            "sahur": "'04:27'"
+        },
+        "sincik": {
+            "iftar": "'18:59'",
+            "sahur": "'04:26'"
+        },
+        "tut": {
+            "iftar": "'19:02'",
+            "sahur": "'04:29'"
+        }
+    },
+    "afyonkarahisar": {
+        "afyonkarahisar": {
+            "iftar": "'19:32'",
+            "sahur": "'04:56'"
+        },
+        "basmakci": {
+            "iftar": "'19:34'",
+            "sahur": "'05:01'"
+        },
+        "bayat": {
+            "iftar": "'19:31'",
+            "sahur": "'04:54'"
+        },
+        "bolvadin": {
+            "iftar": "'19:30'",
+            "sahur": "'04:54'"
+        },
+        "cay": {
+            "iftar": "'19:30'",
+            "sahur": "'04:55'"
+        },
+        "cobanlar": {
+            "iftar": "'19:31'",
+            "sahur": "'04:55'"
+        },
+        "dazkiri": {
+            "iftar": "'19:34'",
+            "sahur": "'05:01'"
+        },
+        "dinar": {
+            "iftar": "'19:33'",
+            "sahur": "'05:00'"
+        },
+        "emirdag": {
+            "iftar": "'19:30'",
+            "sahur": "'04:53'"
+        },
+        "evciler": {
+            "iftar": "'19:34'",
+            "sahur": "'05:01'"
+        },
+        "hocalar": {
+            "iftar": "'19:34'",
+            "sahur": "'04:59'"
+        },
+        "ihsaniye": {
+            "iftar": "'19:33'",
+            "sahur": "'04:56'"
+        },
+        "iscehisar": {
+            "iftar": "'19:32'",
+            "sahur": "'04:55'"
+        },
+        "kiziloren": {
+            "iftar": "'19:33'",
+            "sahur": "'04:59'"
+        },
+        "sandikli": {
+            "iftar": "'19:33'",
+            "sahur": "'04:58'"
+        },
+        "sinanpasa": {
+            "iftar": "'19:33'",
+            "sahur": "'04:58'"
+        },
+        "suhut": {
+            "iftar": "'19:32'",
+            "sahur": "'04:57'"
+        },
+        "sultandagi": {
+            "iftar": "'19:29'",
+            "sahur": "'04:54'"
+        }
+    },
+    "agri": {
+        "agri": {
+            "iftar": "'18:43'",
+            "sahur": "'04:04'"
+        },
+        "diyadin": {
+            "iftar": "'18:41'",
+            "sahur": "'04:02'"
+        },
+        "dogubeyazit": {
+            "iftar": "'18:39'",
+            "sahur": "'04:00'"
+        },
+        "eleskirt": {
+            "iftar": "'18:45'",
+            "sahur": "'04:05'"
+        },
+        "patnos": {
+            "iftar": "'18:43'",
+            "sahur": "'04:06'"
+        },
+        "taslicay": {
+            "iftar": "'18:42'",
+            "sahur": "'04:03'"
+        },
+        "tutak": {
+            "iftar": "'18:44'",
+            "sahur": "'04:05'"
+        }
+    },
+    "amasya": {
+        "amasya": {
+            "iftar": "'19:13'",
+            "sahur": "'04:30'"
+        },
+        "goynucek": {
+            "iftar": "'19:13'",
+            "sahur": "'04:30'"
+        },
+        "gumushacikoy": {
+            "iftar": "'19:16'",
+            "sahur": "'04:32'"
+        },
+        "hamamozu": {
+            "iftar": "'19:16'",
+            "sahur": "'04:33'"
+        },
+        "merzifon": {
+            "iftar": "'19:15'",
+            "sahur": "'04:31'"
+        },
+        "suluova": {
+            "iftar": "'19:14'",
+            "sahur": "'04:31'"
+        },
+        "tasova": {
+            "iftar": "'19:11'",
+            "sahur": "'04:28'"
+        }
+    },
+    "ankara": {
+        "akyurt": {
+            "iftar": "'19:23'",
+            "sahur": "'04:43'"
+        },
+        "ankara": {
+            "iftar": "'19:24'",
+            "sahur": "'04:44'"
+        },
+        "ayas": {
+            "iftar": "'19:26'",
+            "sahur": "'04:46'"
+        },
+        "bala": {
+            "iftar": "'19:23'",
+            "sahur": "'04:44'"
+        },
+        "beypazari": {
+            "iftar": "'19:28'",
+            "sahur": "'04:47'"
+        },
+        "camlidere": {
+            "iftar": "'19:26'",
+            "sahur": "'04:44'"
+        },
+        "cubuk": {
+            "iftar": "'19:24'",
+            "sahur": "'04:43'"
+        },
+        "elmadag": {
+            "iftar": "'19:23'",
+            "sahur": "'04:43'"
+        },
+        "evren": {
+            "iftar": "'19:19'",
+            "sahur": "'04:43'"
+        },
+        "gudul": {
+            "iftar": "'19:27'",
+            "sahur": "'04:46'"
+        },
+        "haymana": {
+            "iftar": "'19:25'",
+            "sahur": "'04:47'"
+        },
+        "kahramankazan": {
+            "iftar": "'19:25'",
+            "sahur": "'04:44'"
+        },
+        "kalecik": {
+            "iftar": "'19:22'",
+            "sahur": "'04:41'"
+        },
+        "kizilcahamam": {
+            "iftar": "'19:25'",
+            "sahur": "'04:43'"
+        },
+        "nallihan": {
+            "iftar": "'19:30'",
+            "sahur": "'04:49'"
+        },
+        "polatli": {
+            "iftar": "'19:27'",
+            "sahur": "'04:48'"
+        },
+        "sereflikochisar": {
+            "iftar": "'19:20'",
+            "sahur": "'04:44'"
+        }
+    },
+    "antalya": {
+        "akseki": {
+            "iftar": "'19:26'",
+            "sahur": "'04:55'"
+        },
+        "aksu": {
+            "iftar": "'19:29'",
+            "sahur": "'04:59'"
+        },
+        "alanya": {
+            "iftar": "'19:24'",
+            "sahur": "'04:56'"
+        },
+        "antalya": {
+            "iftar": "'19:30'",
+            "sahur": "'05:00'"
+        },
+        "demre": {
+            "iftar": "'19:32'",
+            "sahur": "'05:04'"
+        },
+        "elmali": {
+            "iftar": "'19:33'",
+            "sahur": "'05:04'"
+        },
+        "finike": {
+            "iftar": "'19:32'",
+            "sahur": "'05:04'"
+        },
+        "gazipasa": {
+            "iftar": "'19:23'",
+            "sahur": "'04:55'"
+        },
+        "gundogmus": {
+            "iftar": "'19:25'",
+            "sahur": "'04:55'"
+        },
+        "ibradi": {
+            "iftar": "'19:27'",
+            "sahur": "'04:56'"
+        },
+        "kas": {
+            "iftar": "'19:34'",
+            "sahur": "'05:06'"
+        },
+        "kemer": {
+            "iftar": "'19:30'",
+            "sahur": "'05:01'"
+        },
+        "korkuteli": {
+            "iftar": "'19:32'",
+            "sahur": "'05:02'"
+        },
+        "kumluca": {
+            "iftar": "'19:31'",
+            "sahur": "'05:03'"
+        },
+        "manavgat": {
+            "iftar": "'19:27'",
+            "sahur": "'04:57'"
+        },
+        "serik": {
+            "iftar": "'19:28'",
+            "sahur": "'04:58'"
+        }
+    },
+    "artvin": {
+        "ardanuc": {
+            "iftar": "'18:48'",
+            "sahur": "'04:04'"
+        },
+        "arhavi": {
+            "iftar": "'18:52'",
+            "sahur": "'04:06'"
+        },
+        "artvin": {
+            "iftar": "'18:49'",
+            "sahur": "'04:05'"
+        },
+        "borcka": {
+            "iftar": "'18:50'",
+            "sahur": "'04:05'"
+        },
+        "hopa": {
+            "iftar": "'18:51'",
+            "sahur": "'04:06'"
+        },
+        "kemalpasa": {
+            "iftar": "'18:51'",
+            "sahur": "'04:05'"
+        },
+        "murgul": {
+            "iftar": "'18:51'",
+            "sahur": "'04:06'"
+        },
+        "savsat": {
+            "iftar": "'18:47'",
+            "sahur": "'04:03'"
+        },
+        "yusufeli": {
+            "iftar": "'18:50'",
+            "sahur": "'04:07'"
+        }
+    },
+    "aydin": {
+        "aydin": {
+            "iftar": "'19:42'",
+            "sahur": "'05:09'"
+        },
+        "bozdogan": {
+            "iftar": "'19:40'",
+            "sahur": "'05:08'"
+        },
+        "buharkent": {
+            "iftar": "'19:39'",
+            "sahur": "'05:05'"
+        },
+        "cine": {
+            "iftar": "'19:41'",
+            "sahur": "'05:09'"
+        },
+        "didim": {
+            "iftar": "'19:44'",
+            "sahur": "'05:13'"
+        },
+        "germencik": {
+            "iftar": "'19:43'",
+            "sahur": "'05:10'"
+        },
+        "incirliova": {
+            "iftar": "'19:43'",
+            "sahur": "'05:10'"
+        },
+        "karacasu": {
+            "iftar": "'19:39'",
+            "sahur": "'05:07'"
+        },
+        "karpuzlu": {
+            "iftar": "'19:42'",
+            "sahur": "'05:10'"
+        },
+        "kocarli": {
+            "iftar": "'19:43'",
+            "sahur": "'05:10'"
+        },
+        "kosk": {
+            "iftar": "'19:41'",
+            "sahur": "'05:08'"
+        },
+        "kusadasi": {
+            "iftar": "'19:45'",
+            "sahur": "'05:12'"
+        },
+        "kuyucak": {
+            "iftar": "'19:40'",
+            "sahur": "'05:07'"
+        },
+        "nazilli": {
+            "iftar": "'19:40'",
+            "sahur": "'05:07'"
+        },
+        "soke": {
+            "iftar": "'19:44'",
+            "sahur": "'05:11'"
+        },
+        "sultanhisar": {
+            "iftar": "'19:41'",
+            "sahur": "'05:08'"
+        },
+        "yenipazar-a": {
+            "iftar": "'19:41'",
+            "sahur": "'05:08'"
+        }
+    },
+    "balikesir": {
+        "ayvalik": {
+            "iftar": "'19:48'",
+            "sahur": "'05:10'"
+        },
+        "balikesir": {
+            "iftar": "'19:44'",
+            "sahur": "'05:05'"
+        },
+        "balya": {
+            "iftar": "'19:45'",
+            "sahur": "'05:06'"
+        },
+        "bandirma": {
+            "iftar": "'19:44'",
+            "sahur": "'05:03'"
+        },
+        "bigadic": {
+            "iftar": "'19:43'",
+            "sahur": "'05:04'"
+        },
+        "burhaniye": {
+            "iftar": "'19:47'",
+            "sahur": "'05:09'"
+        },
+        "dursunbey": {
+            "iftar": "'19:41'",
+            "sahur": "'05:02'"
+        },
+        "edremit": {
+            "iftar": "'19:47'",
+            "sahur": "'05:08'"
+        },
+        "erdek": {
+            "iftar": "'19:45'",
+            "sahur": "'05:03'"
+        },
+        "gomec": {
+            "iftar": "'19:48'",
+            "sahur": "'05:10'"
+        },
+        "gonen": {
+            "iftar": "'19:45'",
+            "sahur": "'05:04'"
+        },
+        "havran": {
+            "iftar": "'19:47'",
+            "sahur": "'05:08'"
+        },
+        "ivrindi": {
+            "iftar": "'19:45'",
+            "sahur": "'05:07'"
+        },
+        "kepsut": {
+            "iftar": "'19:43'",
+            "sahur": "'05:04'"
+        },
+        "manyas": {
+            "iftar": "'19:44'",
+            "sahur": "'05:03'"
+        },
+        "marmara": {
+            "iftar": "'19:46'",
+            "sahur": "'05:04'"
+        },
+        "savastepe": {
+            "iftar": "'19:44'",
+            "sahur": "'05:06'"
+        },
+        "sindirgi": {
+            "iftar": "'19:42'",
+            "sahur": "'05:05'"
+        },
+        "susurluk": {
+            "iftar": "'19:43'",
+            "sahur": "'05:03'"
+        }
+    },
+    "bilecik": {
+        "bilecik": {
+            "iftar": "'19:36'",
+            "sahur": "'04:55'"
+        },
+        "bozuyuk": {
+            "iftar": "'19:36'",
+            "sahur": "'04:55'"
+        },
+        "golpazari": {
+            "iftar": "'19:35'",
+            "sahur": "'04:53'"
+        },
+        "inhisar": {
+            "iftar": "'19:34'",
+            "sahur": "'04:54'"
+        },
+        "osmaneli": {
+            "iftar": "'19:34'",
+            "sahur": "'04:54'"
+        },
+        "pazaryeri": {
+            "iftar": "'19:36'",
+            "sahur": "'04:56'"
+        },
+        "sogut": {
+            "iftar": "'19:35'",
+            "sahur": "'04:55'"
+        },
+        "yenipazar": {
+            "iftar": "'19:34'",
+            "sahur": "'04:53'"
+        }
+    },
+    "bingol": {
+        "adakli": {
+            "iftar": "'18:53'",
+            "sahur": "'04:15'"
+        },
+        "bingol": {
+            "iftar": "'18:53'",
+            "sahur": "'04:16'"
+        },
+        "karliova": {
+            "iftar": "'18:51'",
+            "sahur": "'04:13'"
+        },
+        "kigi": {
+            "iftar": "'18:54'",
+            "sahur": "'04:16'"
+        },
+        "solhan": {
+            "iftar": "'18:50'",
+            "sahur": "'04:14'"
+        },
+        "yayladere": {
+            "iftar": "'18:55'",
+            "sahur": "'04:17'"
+        },
+        "yedisu": {
+            "iftar": "'18:53'",
+            "sahur": "'04:15'"
+        }
+    },
+    "bitlis": {
+        "adilcevaz": {
+            "iftar": "'18:44'",
+            "sahur": "'04:07'"
+        },
+        "ahlat": {
+            "iftar": "'18:45'",
+            "sahur": "'04:09'"
+        },
+        "bitlis": {
+            "iftar": "'18:45'",
+            "sahur": "'04:09'"
+        },
+        "guroymak": {
+            "iftar": "'18:46'",
+            "sahur": "'04:11'"
+        },
+        "hizan": {
+            "iftar": "'18:44'",
+            "sahur": "'04:10'"
+        },
+        "mutki": {
+            "iftar": "'18:46'",
+            "sahur": "'04:12'"
+        },
+        "tatvan": {
+            "iftar": "'18:45'",
+            "sahur": "'04:10'"
+        }
+    },
+    "bolu": {
+        "bolu": {
+            "iftar": "'19:30'",
+            "sahur": "'04:47'"
+        },
+        "dortdivan": {
+            "iftar": "'19:30'",
+            "sahur": "'04:47'"
+        },
+        "gerede": {
+            "iftar": "'19:28'",
+            "sahur": "'04:44'"
+        },
+        "goynuk": {
+            "iftar": "'19:33'",
+            "sahur": "'04:51'"
+        },
+        "kibriscik": {
+            "iftar": "'19:29'",
+            "sahur": "'04:47'"
+        },
+        "mengen": {
+            "iftar": "'19:28'",
+            "sahur": "'04:45'"
+        },
+        "mudurnu": {
+            "iftar": "'19:31'",
+            "sahur": "'04:49'"
+        },
+        "seben": {
+            "iftar": "'19:30'",
+            "sahur": "'04:48'"
+        },
+        "yenicaga": {
+            "iftar": "'19:28'",
+            "sahur": "'04:45'"
+        }
+    },
+    "burdur": {
+        "aglasun": {
+            "iftar": "'19:31'",
+            "sahur": "'04:59'"
+        },
+        "altinyayla": {
+            "iftar": "'19:35'",
+            "sahur": "'05:04'"
+        },
+        "bucak": {
+            "iftar": "'19:31'",
+            "sahur": "'04:59'"
+        },
+        "burdur": {
+            "iftar": "'19:32'",
+            "sahur": "'05:00'"
+        },
+        "cavdir": {
+            "iftar": "'19:34'",
+            "sahur": "'05:04'"
+        },
+        "celtikci": {
+            "iftar": "'19:31'",
+            "sahur": "'05:00'"
+        },
+        "golhisar": {
+            "iftar": "'19:35'",
+            "sahur": "'05:04'"
+        },
+        "karamanli": {
+            "iftar": "'19:34'",
+            "sahur": "'05:03'"
+        },
+        "kemer-b": {
+            "iftar": "'19:33'",
+            "sahur": "'05:02'"
+        },
+        "tefenni": {
+            "iftar": "'19:34'",
+            "sahur": "'05:03'"
+        },
+        "yesilova": {
+            "iftar": "'19:34'",
+            "sahur": "'05:02'"
+        }
+    },
+    "bursa": {
+        "bursa": {
+            "iftar": "'19:40'",
+            "sahur": "'04:59'"
+        },
+        "buyuk-orhan": {
+            "iftar": "'19:40'",
+            "sahur": "'05:00'"
+        },
+        "gemlik": {
+            "iftar": "'19:39'",
+            "sahur": "'04:58'"
+        },
+        "harmancik": {
+            "iftar": "'19:39'",
+            "sahur": "'05:00'"
+        },
+        "inegol": {
+            "iftar": "'19:38'",
+            "sahur": "'04:57'"
+        },
+        "iznik": {
+            "iftar": "'19:37'",
+            "sahur": "'04:55'"
+        },
+        "karacabey": {
+            "iftar": "'19:42'",
+            "sahur": "'05:01'"
+        },
+        "keles": {
+            "iftar": "'19:39'",
+            "sahur": "'04:59'"
+        },
+        "kestel": {
+            "iftar": "'19:39'",
+            "sahur": "'04:58'"
+        },
+        "mudanya": {
+            "iftar": "'19:40'",
+            "sahur": "'04:59'"
+        },
+        "mustafa-kemalpasa": {
+            "iftar": "'19:42'",
+            "sahur": "'05:02'"
+        },
+        "orhaneli": {
+            "iftar": "'19:40'",
+            "sahur": "'05:00'"
+        },
+        "orhangazi": {
+            "iftar": "'19:39'",
+            "sahur": "'04:57'"
+        },
+        "yenisehir": {
+            "iftar": "'19:37'",
+            "sahur": "'04:56'"
+        }
+    },
+    "canakkale": {
+        "ayvacik": {
+            "iftar": "'19:50'",
+            "sahur": "'05:11'"
+        },
+        "bayramic": {
+            "iftar": "'19:49'",
+            "sahur": "'05:09'"
+        },
+        "biga": {
+            "iftar": "'19:47'",
+            "sahur": "'05:06'"
+        },
+        "bozcaada": {
+            "iftar": "'19:51'",
+            "sahur": "'05:12'"
+        },
+        "can": {
+            "iftar": "'19:47'",
+            "sahur": "'05:07'"
+        },
+        "canakkale": {
+            "iftar": "'19:50'",
+            "sahur": "'05:09'"
+        },
+        "ezine": {
+            "iftar": "'19:50'",
+            "sahur": "'05:11'"
+        },
+        "gelibolu": {
+            "iftar": "'19:49'",
+            "sahur": "'05:08'"
+        },
+        "gokceada": {
+            "iftar": "'19:52'",
+            "sahur": "'05:11'"
+        },
+        "lapseki": {
+            "iftar": "'19:49'",
+            "sahur": "'05:08'"
+        },
+        "yenice": {
+            "iftar": "'19:47'",
+            "sahur": "'05:06'"
+        }
+    },
+    "cankiri": {
+        "atkaracalar": {
+            "iftar": "'19:24'",
+            "sahur": "'04:41'"
+        },
+        "bayramoren": {
+            "iftar": "'19:24'",
+            "sahur": "'04:40'"
+        },
+        "cankiri": {
+            "iftar": "'19:22'",
+            "sahur": "'04:39'"
+        },
+        "cerkes": {
+            "iftar": "'19:25'",
+            "sahur": "'04:42'"
+        },
+        "ilgaz": {
+            "iftar": "'19:22'",
+            "sahur": "'04:38'"
+        },
+        "kizilirmak": {
+            "iftar": "'19:20'",
+            "sahur": "'04:39'"
+        },
+        "kursunlu": {
+            "iftar": "'19:23'",
+            "sahur": "'04:40'"
+        },
+        "orta": {
+            "iftar": "'19:24'",
+            "sahur": "'04:41'"
+        },
+        "sabanozu": {
+            "iftar": "'19:23'",
+            "sahur": "'04:41'"
+        },
+        "yaprakli": {
+            "iftar": "'19:21'",
+            "sahur": "'04:38'"
+        }
+    },
+    "corum": {
+        "alaca": {
+            "iftar": "'19:16'",
+            "sahur": "'04:36'"
+        },
+        "bayat": {
+            "iftar": "'19:19'",
+            "sahur": "'04:37'"
+        },
+        "bogazkale": {
+            "iftar": "'19:17'",
+            "sahur": "'04:37'"
+        },
+        "corum": {
+            "iftar": "'19:16'",
+            "sahur": "'04:34'"
+        },
+        "dodurga": {
+            "iftar": "'19:17'",
+            "sahur": "'04:34'"
+        },
+        "iskilip": {
+            "iftar": "'19:18'",
+            "sahur": "'04:35'"
+        },
+        "kargi": {
+            "iftar": "'19:19'",
+            "sahur": "'04:34'"
+        },
+        "lacin": {
+            "iftar": "'19:17'",
+            "sahur": "'04:34'"
+        },
+        "mecitozu": {
+            "iftar": "'19:15'",
+            "sahur": "'04:33'"
+        },
+        "oguzlar": {
+            "iftar": "'19:18'",
+            "sahur": "'04:35'"
+        },
+        "ortakoy": {
+            "iftar": "'19:15'",
+            "sahur": "'04:34'"
+        },
+        "osmancik": {
+            "iftar": "'19:17'",
+            "sahur": "'04:34'"
+        },
+        "sungurlu": {
+            "iftar": "'19:18'",
+            "sahur": "'04:37'"
+        },
+        "ugurludag": {
+            "iftar": "'19:18'",
+            "sahur": "'04:36'"
+        }
+    },
+    "denizli": {
+        "acipayam": {
+            "iftar": "'19:36'",
+            "sahur": "'05:04'"
+        },
+        "babadag": {
+            "iftar": "'19:38'",
+            "sahur": "'05:05'"
+        },
+        "baklan": {
+            "iftar": "'19:35'",
+            "sahur": "'05:02'"
+        },
+        "bekilli": {
+            "iftar": "'19:36'",
+            "sahur": "'05:02'"
+        },
+        "beyagac": {
+            "iftar": "'19:37'",
+            "sahur": "'05:07'"
+        },
+        "bozkurt": {
+            "iftar": "'19:35'",
+            "sahur": "'05:02'"
+        },
+        "buldan": {
+            "iftar": "'19:39'",
+            "sahur": "'05:05'"
+        },
+        "cal": {
+            "iftar": "'19:36'",
+            "sahur": "'05:03'"
+        },
+        "cameli": {
+            "iftar": "'19:36'",
+            "sahur": "'05:05'"
+        },
+        "cardak": {
+            "iftar": "'19:35'",
+            "sahur": "'05:02'"
+        },
+        "civril": {
+            "iftar": "'19:35'",
+            "sahur": "'05:01'"
+        },
+        "denizli": {
+            "iftar": "'19:37'",
+            "sahur": "'05:05'"
+        },
+        "guney": {
+            "iftar": "'19:38'",
+            "sahur": "'05:04'"
+        },
+        "honaz": {
+            "iftar": "'19:37'",
+            "sahur": "'05:04'"
+        },
+        "kale": {
+            "iftar": "'19:38'",
+            "sahur": "'05:06'"
+        },
+        "saraykoy": {
+            "iftar": "'19:38'",
+            "sahur": "'05:05'"
+        },
+        "serinhisar": {
+            "iftar": "'19:36'",
+            "sahur": "'05:04'"
+        },
+        "tavas": {
+            "iftar": "'19:37'",
+            "sahur": "'05:05'"
+        }
+    },
+    "diyarbakir": {
+        "bismil": {
+            "iftar": "'18:51'",
+            "sahur": "'04:18'"
+        },
+        "cermik": {
+            "iftar": "'18:56'",
+            "sahur": "'04:22'"
+        },
+        "cinar": {
+            "iftar": "'18:52'",
+            "sahur": "'04:19'"
+        },
+        "cungus": {
+            "iftar": "'18:57'",
+            "sahur": "'04:23'"
+        },
+        "dicle": {
+            "iftar": "'18:54'",
+            "sahur": "'04:19'"
+        },
+        "diyarbakir": {
+            "iftar": "'18:53'",
+            "sahur": "'04:20'"
+        },
+        "egil": {
+            "iftar": "'18:54'",
+            "sahur": "'04:19'"
+        },
+        "ergani": {
+            "iftar": "'18:55'",
+            "sahur": "'04:21'"
+        },
+        "hani": {
+            "iftar": "'18:53'",
+            "sahur": "'04:18'"
+        },
+        "hazro": {
+            "iftar": "'18:51'",
+            "sahur": "'04:17'"
+        },
+        "kocakoy": {
+            "iftar": "'18:52'",
+            "sahur": "'04:18'"
+        },
+        "kulp": {
+            "iftar": "'18:50'",
+            "sahur": "'04:15'"
+        },
+        "lice": {
+            "iftar": "'18:52'",
+            "sahur": "'04:17'"
+        },
+        "silvan": {
+            "iftar": "'18:50'",
+            "sahur": "'04:16'"
+        }
+    },
+    "edirne": {
+        "edirne": {
+            "iftar": "'19:51'",
+            "sahur": "'05:05'"
+        },
+        "enez": {
+            "iftar": "'19:52'",
+            "sahur": "'05:09'"
+        },
+        "havsa": {
+            "iftar": "'19:50'",
+            "sahur": "'05:04'"
+        },
+        "ipsala": {
+            "iftar": "'19:51'",
+            "sahur": "'05:07'"
+        },
+        "kesan": {
+            "iftar": "'19:50'",
+            "sahur": "'05:07'"
+        },
+        "lalapasa": {
+            "iftar": "'19:51'",
+            "sahur": "'05:03'"
+        },
+        "meric": {
+            "iftar": "'19:51'",
+            "sahur": "'05:06'"
+        },
+        "suloglu": {
+            "iftar": "'19:50'",
+            "sahur": "'05:03'"
+        },
+        "uzunkopru": {
+            "iftar": "'19:50'",
+            "sahur": "'05:05'"
+        }
+    },
+    "elazig": {
+        "agin": {
+            "iftar": "'19:00'",
+            "sahur": "'04:23'"
+        },
+        "alacakaya": {
+            "iftar": "'18:55'",
+            "sahur": "'04:20'"
+        },
+        "aricak": {
+            "iftar": "'18:54'",
+            "sahur": "'04:18'"
+        },
+        "baskil": {
+            "iftar": "'18:59'",
+            "sahur": "'04:24'"
+        },
+        "elazig": {
+            "iftar": "'18:58'",
+            "sahur": "'04:22'"
+        },
+        "karakocan": {
+            "iftar": "'18:55'",
+            "sahur": "'04:18'"
+        },
+        "keban": {
+            "iftar": "'19:00'",
+            "sahur": "'04:23'"
+        },
+        "kovancilar": {
+            "iftar": "'18:55'",
+            "sahur": "'04:19'"
+        },
+        "maden": {
+            "iftar": "'18:55'",
+            "sahur": "'04:21'"
+        },
+        "palu": {
+            "iftar": "'18:55'",
+            "sahur": "'04:19'"
+        },
+        "sivrice": {
+            "iftar": "'18:57'",
+            "sahur": "'04:22'"
+        }
+    },
+    "erzincan": {
+        "cayirli": {
+            "iftar": "'18:55'",
+            "sahur": "'04:16'"
+        },
+        "erzincan": {
+            "iftar": "'18:57'",
+            "sahur": "'04:18'"
+        },
+        "ilic": {
+            "iftar": "'19:01'",
+            "sahur": "'04:23'"
+        },
+        "kemah": {
+            "iftar": "'18:59'",
+            "sahur": "'04:20'"
+        },
+        "kemaliye": {
+            "iftar": "'19:01'",
+            "sahur": "'04:23'"
+        },
+        "otlukbeli": {
+            "iftar": "'18:55'",
+            "sahur": "'04:15'"
+        },
+        "refahiye": {
+            "iftar": "'19:00'",
+            "sahur": "'04:21'"
+        },
+        "tercan": {
+            "iftar": "'18:54'",
+            "sahur": "'04:14'"
+        },
+        "uzumlu": {
+            "iftar": "'18:57'",
+            "sahur": "'04:17'"
+        }
+    },
+    "erzurum": {
+        "askale": {
+            "iftar": "'18:53'",
+            "sahur": "'04:13'"
+        },
+        "aziziye": {
+            "iftar": "'18:50'",
+            "sahur": "'04:10'"
+        },
+        "cat": {
+            "iftar": "'18:51'",
+            "sahur": "'04:12'"
+        },
+        "erzurum": {
+            "iftar": "'18:50'",
+            "sahur": "'04:11'"
+        },
+        "hinis": {
+            "iftar": "'18:48'",
+            "sahur": "'04:10'"
+        },
+        "horasan": {
+            "iftar": "'18:47'",
+            "sahur": "'04:07'"
+        },
+        "ispir": {
+            "iftar": "'18:52'",
+            "sahur": "'04:10'"
+        },
+        "karacoban": {
+            "iftar": "'18:47'",
+            "sahur": "'04:09'"
+        },
+        "karayazi": {
+            "iftar": "'18:47'",
+            "sahur": "'04:08'"
+        },
+        "koprukoy": {
+            "iftar": "'18:48'",
+            "sahur": "'04:08'"
+        },
+        "narman": {
+            "iftar": "'18:48'",
+            "sahur": "'04:07'"
+        },
+        "oltu": {
+            "iftar": "'18:48'",
+            "sahur": "'04:06'"
+        },
+        "olur": {
+            "iftar": "'18:48'",
+            "sahur": "'04:05'"
+        },
+        "pasinler": {
+            "iftar": "'18:49'",
+            "sahur": "'04:09'"
+        },
+        "pazaryolu": {
+            "iftar": "'18:53'",
+            "sahur": "'04:11'"
+        },
+        "senkaya": {
+            "iftar": "'18:47'",
+            "sahur": "'04:04'"
+        },
+        "tekman": {
+            "iftar": "'18:49'",
+            "sahur": "'04:10'"
+        },
+        "tortum": {
+            "iftar": "'18:50'",
+            "sahur": "'04:08'"
+        },
+        "uzundere": {
+            "iftar": "'18:50'",
+            "sahur": "'04:08'"
+        }
+    },
+    "eskisehir": {
+        "alpu": {
+            "iftar": "'19:32'",
+            "sahur": "'04:52'"
+        },
+        "beylikova": {
+            "iftar": "'19:30'",
+            "sahur": "'04:51'"
+        },
+        "cifteler": {
+            "iftar": "'19:31'",
+            "sahur": "'04:53'"
+        },
+        "eskisehir": {
+            "iftar": "'19:33'",
+            "sahur": "'04:54'"
+        },
+        "gunyuzu": {
+            "iftar": "'19:28'",
+            "sahur": "'04:50'"
+        },
+        "han": {
+            "iftar": "'19:31'",
+            "sahur": "'04:54'"
+        },
+        "inonu": {
+            "iftar": "'19:35'",
+            "sahur": "'04:55'"
+        },
+        "mahmudiye": {
+            "iftar": "'19:31'",
+            "sahur": "'04:53'"
+        },
+        "mihaliccik": {
+            "iftar": "'19:30'",
+            "sahur": "'04:50'"
+        },
+        "saricakaya": {
+            "iftar": "'19:33'",
+            "sahur": "'04:53'"
+        },
+        "seyitgazi": {
+            "iftar": "'19:32'",
+            "sahur": "'04:54'"
+        },
+        "sivrihisar": {
+            "iftar": "'19:29'",
+            "sahur": "'04:51'"
+        }
+    },
+    "gaziantep": {
+        "araban": {
+            "iftar": "'19:02'",
+            "sahur": "'04:31'"
+        },
+        "gaziantep": {
+            "iftar": "'19:03'",
+            "sahur": "'04:33'"
+        },
+        "islahiye": {
+            "iftar": "'19:06'",
+            "sahur": "'04:36'"
+        },
+        "karkamis": {
+            "iftar": "'19:01'",
+            "sahur": "'04:31'"
+        },
+        "nizip": {
+            "iftar": "'19:02'",
+            "sahur": "'04:31'"
+        },
+        "nurdagi": {
+            "iftar": "'19:06'",
+            "sahur": "'04:35'"
+        },
+        "oguzeli": {
+            "iftar": "'19:03'",
+            "sahur": "'04:33'"
+        },
+        "yavuzeli": {
+            "iftar": "'19:03'",
+            "sahur": "'04:32'"
+        }
+    },
+    "giresun": {
+        "alucra": {
+            "iftar": "'19:01'",
+            "sahur": "'04:19'"
+        },
+        "bulancak": {
+            "iftar": "'19:04'",
+            "sahur": "'04:20'"
+        },
+        "camoluk": {
+            "iftar": "'19:01'",
+            "sahur": "'04:20'"
+        },
+        "canakci": {
+            "iftar": "'19:01'",
+            "sahur": "'04:17'"
+        },
+        "dereli": {
+            "iftar": "'19:03'",
+            "sahur": "'04:20'"
+        },
+        "dogankent": {
+            "iftar": "'19:01'",
+            "sahur": "'04:18'"
+        },
+        "espiye": {
+            "iftar": "'19:02'",
+            "sahur": "'04:18'"
+        },
+        "eynesil": {
+            "iftar": "'19:00'",
+            "sahur": "'04:16'"
+        },
+        "giresun": {
+            "iftar": "'19:03'",
+            "sahur": "'04:19'"
+        },
+        "gorele": {
+            "iftar": "'19:01'",
+            "sahur": "'04:17'"
+        },
+        "guce": {
+            "iftar": "'19:01'",
+            "sahur": "'04:18'"
+        },
+        "kesap": {
+            "iftar": "'19:02'",
+            "sahur": "'04:19'"
+        },
+        "piraziz": {
+            "iftar": "'19:04'",
+            "sahur": "'04:20'"
+        },
+        "sebinkarahisar": {
+            "iftar": "'19:02'",
+            "sahur": "'04:21'"
+        },
+        "tirebolu": {
+            "iftar": "'19:02'",
+            "sahur": "'04:21'"
+        },
+        "yaglidere": {
+            "iftar": "'19:02'",
+            "sahur": "'04:19'"
+        }
+    },
+    "gumushane": {
+        "gumushane": {
+            "iftar": "'18:58'",
+            "sahur": "'04:16'"
+        },
+        "kelkit": {
+            "iftar": "'18:58'",
+            "sahur": "'04:17'"
+        },
+        "kose": {
+            "iftar": "'18:57'",
+            "sahur": "'04:16'"
+        },
+        "kurtun": {
+            "iftar": "'19:00'",
+            "sahur": "'04:17'"
+        },
+        "siran": {
+            "iftar": "'18:59'",
+            "sahur": "'04:18'"
+        },
+        "torul": {
+            "iftar": "'18:59'",
+            "sahur": "'04:17'"
+        }
+    },
+    "hakkari": {
+        "cukurca": {
+            "iftar": "'18:39'",
+            "sahur": "'04:08'"
+        },
+        "derecik": {
+            "iftar": "'18:39'",
+            "sahur": "'04:08'"
+        },
+        "hakkari": {
+            "iftar": "'18:38'",
+            "sahur": "'04:06'"
+        },
+        "semdinli": {
+            "iftar": "'18:35'",
+            "sahur": "'04:04'"
+        },
+        "yuksekova": {
+            "iftar": "'18:36'",
+            "sahur": "'04:04'"
+        }
+    },
+    "hatay": {
+        "altinozu": {
+            "iftar": "'19:07'",
+            "sahur": "'04:40'"
+        },
+        "arsuz": {
+            "iftar": "'19:08'",
+            "sahur": "'04:40'"
+        },
+        "belen": {
+            "iftar": "'19:08'",
+            "sahur": "'04:39'"
+        },
+        "dortyol": {
+            "iftar": "'19:08'",
+            "sahur": "'04:38'"
+        },
+        "erzin": {
+            "iftar": "'19:08'",
+            "sahur": "'04:38'"
+        },
+        "hassa": {
+            "iftar": "'19:07'",
+            "sahur": "'04:37'"
+        },
+        "hatay": {
+            "iftar": "'19:08'",
+            "sahur": "'04:40'"
+        },
+        "iskenderun": {
+            "iftar": "'19:08'",
+            "sahur": "'04:39'"
+        },
+        "kirikhan": {
+            "iftar": "'19:07'",
+            "sahur": "'04:38'"
+        },
+        "kumlu": {
+            "iftar": "'19:07'",
+            "sahur": "'04:38'"
+        },
+        "payas": {
+            "iftar": "'19:08'",
+            "sahur": "'04:38'"
+        },
+        "reyhanli": {
+            "iftar": "'19:06'",
+            "sahur": "'04:38'"
+        },
+        "samandag": {
+            "iftar": "'19:08'",
+            "sahur": "'04:41'"
+        },
+        "yayladagi": {
+            "iftar": "'19:08'",
+            "sahur": "'04:41'"
+        }
+    },
+    "isparta": {
+        "aksu-i": {
+            "iftar": "'19:29'",
+            "sahur": "'04:57'"
+        },
+        "atabey": {
+            "iftar": "'19:31'",
+            "sahur": "'04:58'"
+        },
+        "egirdir": {
+            "iftar": "'19:30'",
+            "sahur": "'04:57'"
+        },
+        "gelendost": {
+            "iftar": "'19:30'",
+            "sahur": "'04:56'"
+        },
+        "gonen": {
+            "iftar": "'19:32'",
+            "sahur": "'04:58'"
+        },
+        "isparta": {
+            "iftar": "'19:31'",
+            "sahur": "'04:59'"
+        },
+        "keciborlu": {
+            "iftar": "'19:32'",
+            "sahur": "'04:59'"
+        },
+        "sarki-karaagac": {
+            "iftar": "'19:28'",
+            "sahur": "'04:55'"
+        },
+        "senirkent": {
+            "iftar": "'19:32'",
+            "sahur": "'04:58'"
+        },
+        "sutculer": {
+            "iftar": "'19:29'",
+            "sahur": "'04:58'"
+        },
+        "uluborlu": {
+            "iftar": "'19:32'",
+            "sahur": "'04:58'"
+        },
+        "yalvac": {
+            "iftar": "'19:29'",
+            "sahur": "'04:55'"
+        },
+        "yenisar-bademli": {
+            "iftar": "'19:28'",
+            "sahur": "'04:56'"
+        }
+    },
+    "mersin": {
+        "anamur": {
+            "iftar": "'19:21'",
+            "sahur": "'04:53'"
+        },
+        "aydincik": {
+            "iftar": "'19:19'",
+            "sahur": "'04:51'"
+        },
+        "bozyazi": {
+            "iftar": "'19:19'",
+            "sahur": "'04:51'"
+        },
+        "camliyayla": {
+            "iftar": "'19:15'",
+            "sahur": "'04:44'"
+        },
+        "erdemli": {
+            "iftar": "'19:15'",
+            "sahur": "'04:46'"
+        },
+        "gulnar": {
+            "iftar": "'19:19'",
+            "sahur": "'04:51'"
+        },
+        "mersin": {
+            "iftar": "'19:14'",
+            "sahur": "'04:45'"
+        },
+        "mut": {
+            "iftar": "'19:19'",
+            "sahur": "'04:50'"
+        },
+        "silifke": {
+            "iftar": "'19:17'",
+            "sahur": "'04:48'"
+        },
+        "tarsus": {
+            "iftar": "'19:13'",
+            "sahur": "'04:43'"
+        }
+    },
+    "istanbul": {
+        "arnavutkoy": {
+            "iftar": "'19:42'",
+            "sahur": "'04:57'"
+        },
+        "avcilar": {
+            "iftar": "'19:42'",
+            "sahur": "'04:58'"
+        },
+        "basaksehir": {
+            "iftar": "'19:41'",
+            "sahur": "'04:57'"
+        },
+        "beylikduzu": {
+            "iftar": "'19:42'",
+            "sahur": "'04:59'"
+        },
+        "buyukcekmece": {
+            "iftar": "'19:42'",
+            "sahur": "'04:58'"
+        },
+        "catalca": {
+            "iftar": "'19:43'",
+            "sahur": "'04:58'"
+        },
+        "cekmekoy": {
+            "iftar": "'19:40'",
+            "sahur": "'04:56'"
+        },
+        "esenyurt": {
+            "iftar": "'19:42'",
+            "sahur": "'04:58'"
+        },
+        "istanbul": {
+            "iftar": "'19:41'",
+            "sahur": "'04:57'"
+        },
+        "kartal": {
+            "iftar": "'19:40'",
+            "sahur": "'04:56'"
+        },
+        "kucukcekmece": {
+            "iftar": "'19:41'",
+            "sahur": "'04:58'"
+        },
+        "maltepe": {
+            "iftar": "'19:40'",
+            "sahur": "'04:56'"
+        },
+        "pendik": {
+            "iftar": "'19:40'",
+            "sahur": "'04:56'"
+        },
+        "sancaktepe": {
+            "iftar": "'19:40'",
+            "sahur": "'04:56'"
+        },
+        "sile": {
+            "iftar": "'19:38'",
+            "sahur": "'04:54'"
+        },
+        "silivri": {
+            "iftar": "'19:38'",
+            "sahur": "'04:54'"
+        },
+        "sultanbeyli": {
+            "iftar": "'19:40'",
+            "sahur": "'04:56'"
+        },
+        "sultangazi": {
+            "iftar": "'19:41'",
+            "sahur": "'04:57'"
+        },
+        "tuzla": {
+            "iftar": "'19:39'",
+            "sahur": "'04:56'"
+        }
+    },
+    "izmir": {
+        "aliaga": {
+            "iftar": "'19:47'",
+            "sahur": "'05:11'"
+        },
+        "bayindir": {
+            "iftar": "'19:43'",
+            "sahur": "'05:09'"
+        },
+        "bergama": {
+            "iftar": "'19:46'",
+            "sahur": "'05:09'"
+        },
+        "beydag": {
+            "iftar": "'19:41'",
+            "sahur": "'05:07'"
+        },
+        "cesme": {
+            "iftar": "'19:49'",
+            "sahur": "'05:14'"
+        },
+        "dikili": {
+            "iftar": "'19:47'",
+            "sahur": "'05:10'"
+        },
+        "foca": {
+            "iftar": "'19:47'",
+            "sahur": "'05:12'"
+        },
+        "guzelbahce": {
+            "iftar": "'19:47'",
+            "sahur": "'05:12'"
+        },
+        "izmir": {
+            "iftar": "'19:46'",
+            "sahur": "'05:11'"
+        },
+        "karaburun": {
+            "iftar": "'19:48'",
+            "sahur": "'05:13'"
+        },
+        "kemalpasa": {
+            "iftar": "'19:44'",
+            "sahur": "'05:10'"
+        },
+        "kinik": {
+            "iftar": "'19:45'",
+            "sahur": "'05:08'"
+        },
+        "kiraz": {
+            "iftar": "'19:41'",
+            "sahur": "'05:07'"
+        },
+        "menderes": {
+            "iftar": "'19:45'",
+            "sahur": "'05:11'"
+        },
+        "menemen": {
+            "iftar": "'19:46'",
+            "sahur": "'05:11'"
+        },
+        "odemis": {
+            "iftar": "'19:42'",
+            "sahur": "'05:08'"
+        },
+        "seferihisar": {
+            "iftar": "'19:47'",
+            "sahur": "'05:13'"
+        },
+        "selcuk": {
+            "iftar": "'19:44'",
+            "sahur": "'05:11'"
+        },
+        "tire": {
+            "iftar": "'19:43'",
+            "sahur": "'05:09'"
+        },
+        "torbali": {
+            "iftar": "'19:44'",
+            "sahur": "'05:11'"
+        },
+        "urla": {
+            "iftar": "'19:47'",
+            "sahur": "'05:13'"
+        }
+    },
+    "kars": {
+        "akyaka": {
+            "iftar": "'18:42'",
+            "sahur": "'03:59'"
+        },
+        "arpacay": {
+            "iftar": "'18:43'",
+            "sahur": "'04:00'"
+        },
+        "digor": {
+            "iftar": "'18:42'",
+            "sahur": "'04:01'"
+        },
+        "kagizman": {
+            "iftar": "'18:43'",
+            "sahur": "'04:03'"
+        },
+        "kars": {
+            "iftar": "'18:44'",
+            "sahur": "'04:01'"
+        },
+        "sarikamis": {
+            "iftar": "'18:46'",
+            "sahur": "'04:04'"
+        },
+        "selim": {
+            "iftar": "'18:45'",
+            "sahur": "'04:03'"
+        },
+        "susuz": {
+            "iftar": "'18:44'",
+            "sahur": "'04:01'"
+        }
+    },
+    "kastamonu": {
+        "abana": {
+            "iftar": "'19:22'",
+            "sahur": "'04:34'"
+        },
+        "agli": {
+            "iftar": "'19:23'",
+            "sahur": "'04:37'"
+        },
+        "arac": {
+            "iftar": "'19:24'",
+            "sahur": "'04:39'"
+        },
+        "azdavay": {
+            "iftar": "'19:24'",
+            "sahur": "'04:38'"
+        },
+        "bozkurt-k": {
+            "iftar": "'19:22'",
+            "sahur": "'04:34'"
+        },
+        "catalzeytin": {
+            "iftar": "'19:21'",
+            "sahur": "'04:33'"
+        },
+        "cide": {
+            "iftar": "'19:25'",
+            "sahur": "'04:38'"
+        },
+        "daday": {
+            "iftar": "'19:23'",
+            "sahur": "'04:38'"
+        },
+        "devrekani": {
+            "iftar": "'19:22'",
+            "sahur": "'04:36'"
+        },
+        "doganyurt": {
+            "iftar": "'19:24'",
+            "sahur": "'04:36'"
+        },
+        "hanonu": {
+            "iftar": "'19:19'",
+            "sahur": "'04:33'"
+        },
+        "ihsangazi": {
+            "iftar": "'19:23'",
+            "sahur": "'04:38'"
+        },
+        "inebolu": {
+            "iftar": "'19:22'",
+            "sahur": "'04:35'"
+        },
+        "kastamonu": {
+            "iftar": "'19:22'",
+            "sahur": "'04:36'"
+        },
+        "kure": {
+            "iftar": "'19:23'",
+            "sahur": "'04:36'"
+        },
+        "pinarbasi-k": {
+            "iftar": "'19:25'",
+            "sahur": "'04:39'"
+        },
+        "senpazar": {
+            "iftar": "'19:24'",
+            "sahur": "'04:37'"
+        },
+        "seydiler": {
+            "iftar": "'19:22'",
+            "sahur": "'04:36'"
+        },
+        "taskopru": {
+            "iftar": "'19:20'",
+            "sahur": "'04:34'"
+        },
+        "tosya": {
+            "iftar": "'19:20'",
+            "sahur": "'04:36'"
+        }
+    },
+    "kayseri": {
+        "akkisla": {
+            "iftar": "'19:10'",
+            "sahur": "'04:33'"
+        },
+        "bunyan": {
+            "iftar": "'19:11'",
+            "sahur": "'04:35'"
+        },
+        "develi": {
+            "iftar": "'19:12'",
+            "sahur": "'04:37'"
+        },
+        "felahiye": {
+            "iftar": "'19:12'",
+            "sahur": "'04:35'"
+        },
+        "incesu": {
+            "iftar": "'19:14'",
+            "sahur": "'04:38'"
+        },
+        "kayseri": {
+            "iftar": "'19:12'",
+            "sahur": "'04:37'"
+        },
+        "ozvatan": {
+            "iftar": "'19:12'",
+            "sahur": "'04:35'"
+        },
+        "pinarbasi": {
+            "iftar": "'19:09'",
+            "sahur": "'04:33'"
+        },
+        "sarioglan": {
+            "iftar": "'19:11'",
+            "sahur": "'04:34'"
+        },
+        "sariz": {
+            "iftar": "'19:08'",
+            "sahur": "'04:33'"
+        },
+        "tomarza": {
+            "iftar": "'19:11'",
+            "sahur": "'04:36'"
+        },
+        "yahyali": {
+            "iftar": "'19:12'",
+            "sahur": "'04:39'"
+        },
+        "yesilhisar": {
+            "iftar": "'19:14'",
+            "sahur": "'04:39'"
+        }
+    },
+    "kirklareli": {
+        "babaeski": {
+            "iftar": "'19:49'",
+            "sahur": "'05:03'"
+        },
+        "demirkoy": {
+            "iftar": "'19:46'",
+            "sahur": "'04:59'"
+        },
+        "kirklareli": {
+            "iftar": "'19:48'",
+            "sahur": "'05:02'"
+        },
+        "luleburgaz": {
+            "iftar": "'19:48'",
+            "sahur": "'05:02'"
+        },
+        "pehlivankoy": {
+            "iftar": "'19:49'",
+            "sahur": "'05:04'"
+        },
+        "pinarhisar": {
+            "iftar": "'19:47'",
+            "sahur": "'05:01'"
+        },
+        "vize": {
+            "iftar": "'19:47'",
+            "sahur": "'05:01'"
+        }
+    },
+    "kirsehir": {
+        "akcakent": {
+            "iftar": "'19:19'",
+            "sahur": "'04:40'"
+        },
+        "akpinar": {
+            "iftar": "'19:19'",
+            "sahur": "'04:41'"
+        },
+        "cicekdagi": {
+            "iftar": "'19:18'",
+            "sahur": "'04:39'"
+        },
+        "kaman": {
+            "iftar": "'19:20'",
+            "sahur": "'04:42'"
+        },
+        "kirsehir": {
+            "iftar": "'19:18'",
+            "sahur": "'04:41'"
+        },
+        "mucur": {
+            "iftar": "'19:17'",
+            "sahur": "'04:40'"
+        }
+    },
+    "kocaeli": {
+        "cayirova": {
+            "iftar": "'19:39'",
+            "sahur": "'04:55'"
+        },
+        "darica": {
+            "iftar": "'19:39'",
+            "sahur": "'04:56'"
+        },
+        "dilovasi": {
+            "iftar": "'19:38'",
+            "sahur": "'04:55'"
+        },
+        "gebze": {
+            "iftar": "'19:39'",
+            "sahur": "'04:55'"
+        },
+        "kandira": {
+            "iftar": "'19:36'",
+            "sahur": "'04:52'"
+        },
+        "karamursel": {
+            "iftar": "'19:38'",
+            "sahur": "'04:55'"
+        },
+        "kartepe": {
+            "iftar": "'19:36'",
+            "sahur": "'04:52'"
+        },
+        "kocaeli": {
+            "iftar": "'19:37'",
+            "sahur": "'04:54'"
+        },
+        "korfez": {
+            "iftar": "'19:37'",
+            "sahur": "'04:54'"
+        }
+    },
+    "konya": {
+        "ahirli": {
+            "iftar": "'19:25'",
+            "sahur": "'04:54'"
+        },
+        "akoren": {
+            "iftar": "'19:24'",
+            "sahur": "'04:52'"
+        },
+        "aksehir": {
+            "iftar": "'19:28'",
+            "sahur": "'04:54'"
+        },
+        "altinekin": {
+            "iftar": "'19:23'",
+            "sahur": "'04:48'"
+        },
+        "beysehir": {
+            "iftar": "'19:27'",
+            "sahur": "'04:54'"
+        },
+        "bozkir": {
+            "iftar": "'19:24'",
+            "sahur": "'04:53'"
+        },
+        "celtik": {
+            "iftar": "'19:28'",
+            "sahur": "'04:51'"
+        },
+        "cihanbeyli": {
+            "iftar": "'19:23'",
+            "sahur": "'04:47'"
+        },
+        "cumra": {
+            "iftar": "'19:22'",
+            "sahur": "'04:50'"
+        },
+        "derbent": {
+            "iftar": "'19:26'",
+            "sahur": "'04:52'"
+        },
+        "derebucak": {
+            "iftar": "'19:27'",
+            "sahur": "'04:56'"
+        },
+        "doganhisar": {
+            "iftar": "'19:27'",
+            "sahur": "'04:53'"
+        },
+        "emirgazi": {
+            "iftar": "'19:18'",
+            "sahur": "'04:45'"
+        },
+        "eregli": {
+            "iftar": "'19:17'",
+            "sahur": "'04:45'"
+        },
+        "guneysinir": {
+            "iftar": "'19:22'",
+            "sahur": "'04:51'"
+        },
+        "hadim": {
+            "iftar": "'19:23'",
+            "sahur": "'04:53'"
+        },
+        "halkapinar": {
+            "iftar": "'19:16'",
+            "sahur": "'04:45'"
+        },
+        "huyuk": {
+            "iftar": "'19:27'",
+            "sahur": "'04:54'"
+        },
+        "ilgin": {
+            "iftar": "'19:26'",
+            "sahur": "'04:52'"
+        },
+        "kadinhani": {
+            "iftar": "'19:25'",
+            "sahur": "'04:51'"
+        },
+        "karapinar": {
+            "iftar": "'19:19'",
+            "sahur": "'04:47'"
+        },
+        "karatay": {
+            "iftar": "'19:24'",
+            "sahur": "'04:51'"
+        },
+        "konya": {
+            "iftar": "'19:24'",
+            "sahur": "'04:51'"
+        },
+        "kulu": {
+            "iftar": "'19:22'",
+            "sahur": "'04:45'"
+        },
+        "meram": {
+            "iftar": "'19:24'",
+            "sahur": "'04:51'"
+        },
+        "sarayonu": {
+            "iftar": "'19:24'",
+            "sahur": "'04:50'"
+        },
+        "selcuklu": {
+            "iftar": "'19:24'",
+            "sahur": "'04:51'"
+        },
+        "seydisehir": {
+            "iftar": "'19:26'",
+            "sahur": "'04:54'"
+        },
+        "taskent": {
+            "iftar": "'19:23'",
+            "sahur": "'04:53'"
+        },
+        "tuzlukcu": {
+            "iftar": "'19:28'",
+            "sahur": "'04:53'"
+        },
+        "yalihuyuk": {
+            "iftar": "'19:25'",
+            "sahur": "'04:54'"
+        },
+        "yunak": {
+            "iftar": "'19:28'",
+            "sahur": "'04:51'"
+        }
+    },
+    "kutahya": {
+        "altintas": {
+            "iftar": "'19:34'",
+            "sahur": "'04:57'"
+        },
+        "aslanapa": {
+            "iftar": "'19:35'",
+            "sahur": "'04:58'"
+        },
+        "cavdarhisar": {
+            "iftar": "'19:36'",
+            "sahur": "'04:59'"
+        },
+        "domanic": {
+            "iftar": "'19:37'",
+            "sahur": "'04:57'"
+        },
+        "dumlupinar": {
+            "iftar": "'19:35'",
+            "sahur": "'04:58'"
+        },
+        "emet": {
+            "iftar": "'19:38'",
+            "sahur": "'05:00'"
+        },
+        "gediz": {
+            "iftar": "'19:37'",
+            "sahur": "'05:00'"
+        },
+        "hisarcik": {
+            "iftar": "'19:38'",
+            "sahur": "'05:00'"
+        },
+        "kutahya": {
+            "iftar": "'19:35'",
+            "sahur": "'04:57'"
+        },
+        "pazarlar": {
+            "iftar": "'19:38'",
+            "sahur": "'05:01'"
+        },
+        "saphane": {
+            "iftar": "'19:38'",
+            "sahur": "'05:01'"
+        },
+        "simav": {
+            "iftar": "'19:39'",
+            "sahur": "'05:02'"
+        },
+        "tavsanli": {
+            "iftar": "'19:37'",
+            "sahur": "'04:59'"
+        }
+    },
+    "malatya": {
+        "akcadag": {
+            "iftar": "'19:02'",
+            "sahur": "'04:28'"
+        },
+        "arapgir": {
+            "iftar": "'19:01'",
+            "sahur": "'04:24'"
+        },
+        "arguvan": {
+            "iftar": "'19:01'",
+            "sahur": "'04:25'"
+        },
+        "darende": {
+            "iftar": "'19:04'",
+            "sahur": "'04:29'"
+        },
+        "dogansehir": {
+            "iftar": "'19:02'",
+            "sahur": "'04:29'"
+        },
+        "doganyol": {
+            "iftar": "'18:58'",
+            "sahur": "'04:23'"
+        },
+        "hekimhan": {
+            "iftar": "'18:58'",
+            "sahur": "'04:23'"
+        },
+        "kale-m": {
+            "iftar": "'18:59'",
+            "sahur": "'04:24'"
+        },
+        "kuluncak": {
+            "iftar": "'19:04'",
+            "sahur": "'04:28'"
+        },
+        "malatya": {
+            "iftar": "'19:04'",
+            "sahur": "'04:28'"
+        },
+        "puturge": {
+            "iftar": "'18:58'",
+            "sahur": "'04:24'"
+        },
+        "yazihan": {
+            "iftar": "'19:02'",
+            "sahur": "'04:26'"
+        },
+        "yesilyurt": {
+            "iftar": "'19:01'",
+            "sahur": "'04:27'"
+        }
+    },
+    "manisa": {
+        "ahmetli": {
+            "iftar": "'19:43'",
+            "sahur": "'05:07'"
+        },
+        "akhisar": {
+            "iftar": "'19:43'",
+            "sahur": "'05:07'"
+        },
+        "alasehir": {
+            "iftar": "'19:40'",
+            "sahur": "'05:05'"
+        },
+        "demirci": {
+            "iftar": "'19:40'",
+            "sahur": "'05:03'"
+        },
+        "golmarmara": {
+            "iftar": "'19:43'",
+            "sahur": "'05:07'"
+        },
+        "gordes": {
+            "iftar": "'19:41'",
+            "sahur": "'05:05'"
+        },
+        "kirkagac": {
+            "iftar": "'19:44'",
+            "sahur": "'05:07'"
+        },
+        "koprubasi": {
+            "iftar": "'19:41'",
+            "sahur": "'05:05'"
+        },
+        "kula": {
+            "iftar": "'19:40'",
+            "sahur": "'05:04'"
+        },
+        "manisa": {
+            "iftar": "'19:45'",
+            "sahur": "'05:09'"
+        },
+        "salihli": {
+            "iftar": "'19:42'",
+            "sahur": "'05:07'"
+        },
+        "sarigol": {
+            "iftar": "'19:39'",
+            "sahur": "'05:05'"
+        },
+        "saruhanli": {
+            "iftar": "'19:44'",
+            "sahur": "'05:08'"
+        },
+        "selendi": {
+            "iftar": "'19:39'",
+            "sahur": "'05:03'"
+        },
+        "soma": {
+            "iftar": "'19:44'",
+            "sahur": "'05:07'"
+        },
+        "turgutlu": {
+            "iftar": "'19:43'",
+            "sahur": "'05:08'"
+        }
+    },
+    "kahramanmaras": {
+        "afsin": {
+            "iftar": "'19:06'",
+            "sahur": "'04:32'"
+        },
+        "andirin": {
+            "iftar": "'19:08'",
+            "sahur": "'04:36'"
+        },
+        "caglayancerit": {
+            "iftar": "'19:04'",
+            "sahur": "'04:32'"
+        },
+        "ekinozu": {
+            "iftar": "'19:05'",
+            "sahur": "'04:31'"
+        },
+        "elbistan": {
+            "iftar": "'19:05'",
+            "sahur": "'04:31'"
+        },
+        "goksun": {
+            "iftar": "'19:08'",
+            "sahur": "'04:34'"
+        },
+        "kahramanmaras": {
+            "iftar": "'19:06'",
+            "sahur": "'04:34'"
+        },
+        "nurhak": {
+            "iftar": "'19:04'",
+            "sahur": "'04:31'"
+        },
+        "pazarcik": {
+            "iftar": "'19:04'",
+            "sahur": "'04:32'"
+        },
+        "turkoglu": {
+            "iftar": "'19:06'",
+            "sahur": "'04:34'"
+        }
+    },
+    "mardin": {
+        "dargecit": {
+            "iftar": "'18:46'",
+            "sahur": "'04:15'"
+        },
+        "derik": {
+            "iftar": "'18:52'",
+            "sahur": "'04:21'"
+        },
+        "kiziltepe": {
+            "iftar": "'18:51'",
+            "sahur": "'04:20'"
+        },
+        "mardin": {
+            "iftar": "'18:50'",
+            "sahur": "'04:19'"
+        },
+        "mazidagi": {
+            "iftar": "'18:50'",
+            "sahur": "'04:19'"
+        },
+        "midyat": {
+            "iftar": "'18:48'",
+            "sahur": "'04:16'"
+        },
+        "nusaybin": {
+            "iftar": "'18:48'",
+            "sahur": "'04:18'"
+        },
+        "omerli": {
+            "iftar": "'18:49'",
+            "sahur": "'04:18'"
+        },
+        "savur": {
+            "iftar": "'18:50'",
+            "sahur": "'04:18'"
+        }
+    },
+    "mugla": {
+        "bodrum": {
+            "iftar": "'19:43'",
+            "sahur": "'05:13'"
+        },
+        "dalaman": {
+            "iftar": "'19:37'",
+            "sahur": "'05:08'"
+        },
+        "datca": {
+            "iftar": "'19:42'",
+            "sahur": "'05:13'"
+        },
+        "fethiye": {
+            "iftar": "'19:36'",
+            "sahur": "'05:07'"
+        },
+        "koycegiz": {
+            "iftar": "'19:38'",
+            "sahur": "'05:08'"
+        },
+        "marmaris": {
+            "iftar": "'19:40'",
+            "sahur": "'05:10'"
+        },
+        "milas": {
+            "iftar": "'19:42'",
+            "sahur": "'05:11'"
+        },
+        "mugla": {
+            "iftar": "'19:40'",
+            "sahur": "'05:09'"
+        },
+        "ortaca": {
+            "iftar": "'19:38'",
+            "sahur": "'05:08'"
+        },
+        "seydikemer": {
+            "iftar": "'19:35'",
+            "sahur": "'05:06'"
+        },
+        "ula": {
+            "iftar": "'19:39'",
+            "sahur": "'05:09'"
+        },
+        "yatagan": {
+            "iftar": "'19:41'",
+            "sahur": "'05:09'"
+        }
+    },
+    "mus": {
+        "bulanik": {
+            "iftar": "'18:46'",
+            "sahur": "'04:09'"
+        },
+        "haskoy": {
+            "iftar": "'18:48'",
+            "sahur": "'04:12'"
+        },
+        "korkut": {
+            "iftar": "'18:47'",
+            "sahur": "'04:11'"
+        },
+        "malazgirt": {
+            "iftar": "'18:45'",
+            "sahur": "'04:07'"
+        },
+        "mus": {
+            "iftar": "'18:48'",
+            "sahur": "'04:13'"
+        },
+        "varto": {
+            "iftar": "'18:49'",
+            "sahur": "'04:12'"
+        }
+    },
+    "nevsehir": {
+        "acigol": {
+            "iftar": "'19:16'",
+            "sahur": "'04:41'"
+        },
+        "avanos": {
+            "iftar": "'19:15'",
+            "sahur": "'04:39'"
+        },
+        "hacibektas": {
+            "iftar": "'19:16'",
+            "sahur": "'04:40'"
+        },
+        "kozakli": {
+            "iftar": "'19:15'",
+            "sahur": "'04:38'"
+        },
+        "nevsehir": {
+            "iftar": "'19:15'",
+            "sahur": "'04:40'"
+        },
+        "urgup": {
+            "iftar": "'19:15'",
+            "sahur": "'04:39'"
+        }
+    },
+    "nigde": {
+        "altunhisar": {
+            "iftar": "'19:16'",
+            "sahur": "'04:43'"
+        },
+        "bor": {
+            "iftar": "'19:15'",
+            "sahur": "'04:42'"
+        },
+        "camardi": {
+            "iftar": "'19:14'",
+            "sahur": "'04:41'"
+        },
+        "ciftlik": {
+            "iftar": "'19:16'",
+            "sahur": "'04:42'"
+        },
+        "nigde": {
+            "iftar": "'19:15'",
+            "sahur": "'04:42'"
+        },
+        "ulukisla": {
+            "iftar": "'19:15'",
+            "sahur": "'04:42'"
+        }
+    },
+    "ordu": {
+        "akkus": {
+            "iftar": "'19:08'",
+            "sahur": "'04:25'"
+        },
+        "aybasti": {
+            "iftar": "'19:07'",
+            "sahur": "'04:24'"
+        },
+        "camas": {
+            "iftar": "'19:07'",
+            "sahur": "'04:24'"
+        },
+        "catalpinar": {
+            "iftar": "'19:07'",
+            "sahur": "'04:23'"
+        },
+        "caybasi": {
+            "iftar": "'19:08'",
+            "sahur": "'04:24'"
+        },
+        "fatsa": {
+            "iftar": "'19:07'",
+            "sahur": "'04:23'"
+        },
+        "golkoy": {
+            "iftar": "'19:06'",
+            "sahur": "'04:23'"
+        },
+        "gulyali": {
+            "iftar": "'19:04'",
+            "sahur": "'04:21'"
+        },
+        "gurgentepe": {
+            "iftar": "'19:06'",
+            "sahur": "'04:23'"
+        },
+        "ikizce": {
+            "iftar": "'19:08'",
+            "sahur": "'04:24'"
+        },
+        "kabatas": {
+            "iftar": "'19:07'",
+            "sahur": "'04:24'"
+        },
+        "korgan": {
+            "iftar": "'19:07'",
+            "sahur": "'04:24'"
+        },
+        "kumru": {
+            "iftar": "'19:07'",
+            "sahur": "'04:24'"
+        },
+        "mesudiye": {
+            "iftar": "'19:05'",
+            "sahur": "'04:23'"
+        },
+        "ordu": {
+            "iftar": "'19:05'",
+            "sahur": "'04:21'"
+        },
+        "unye": {
+            "iftar": "'19:08'",
+            "sahur": "'04:23'"
+        }
+    },
+    "rize": {
+        "ardesen": {
+            "iftar": "'18:53'",
+            "sahur": "'04:08'"
+        },
+        "camlihemsin": {
+            "iftar": "'18:53'",
+            "sahur": "'04:09'"
+        },
+        "cayeli": {
+            "iftar": "'18:54'",
+            "sahur": "'04:10'"
+        },
+        "findikli": {
+            "iftar": "'18:52'",
+            "sahur": "'04:07'"
+        },
+        "hemsin": {
+            "iftar": "'18:53'",
+            "sahur": "'04:09'"
+        },
+        "ikizdere": {
+            "iftar": "'18:54'",
+            "sahur": "'04:11'"
+        },
+        "iyidere": {
+            "iftar": "'18:55'",
+            "sahur": "'04:11'"
+        },
+        "pazar": {
+            "iftar": "'18:53'",
+            "sahur": "'04:09'"
+        },
+        "rize": {
+            "iftar": "'18:55'",
+            "sahur": "'04:11'"
+        }
+    },
+    "sakarya": {
+        "akyazi": {
+            "iftar": "'19:34'",
+            "sahur": "'04:51'"
+        },
+        "geyve": {
+            "iftar": "'19:35'",
+            "sahur": "'04:53'"
+        },
+        "hendek": {
+            "iftar": "'19:33'",
+            "sahur": "'04:50'"
+        },
+        "karasu": {
+            "iftar": "'19:34'",
+            "sahur": "'04:50'"
+        },
+        "kaynarca": {
+            "iftar": "'19:35'",
+            "sahur": "'04:51'"
+        },
+        "kocaali": {
+            "iftar": "'19:33'",
+            "sahur": "'04:49'"
+        },
+        "pamukova": {
+            "iftar": "'19:35'",
+            "sahur": "'04:53'"
+        },
+        "sakarya": {
+            "iftar": "'19:35'",
+            "sahur": "'04:52'"
+        },
+        "tarakli": {
+            "iftar": "'19:34'",
+            "sahur": "'04:52'"
+        }
+    },
+    "samsun": {
+        "19-mayis": {
+            "iftar": "'19:13'",
+            "sahur": "'04:27'"
+        },
+        "alacam": {
+            "iftar": "'19:15'",
+            "sahur": "'04:29'"
+        },
+        "asarcik": {
+            "iftar": "'19:15'",
+            "sahur": "'04:29'"
+        },
+        "atakum": {
+            "iftar": "'19:12'",
+            "sahur": "'04:27'"
+        },
+        "ayvacik-s": {
+            "iftar": "'19:10'",
+            "sahur": "'04:26'"
+        },
+        "bafra": {
+            "iftar": "'19:14'",
+            "sahur": "'04:27'"
+        },
+        "carsamba": {
+            "iftar": "'19:10'",
+            "sahur": "'04:25'"
+        },
+        "havza": {
+            "iftar": "'19:14'",
+            "sahur": "'04:30'"
+        },
+        "kavak": {
+            "iftar": "'19:12'",
+            "sahur": "'04:28'"
+        },
+        "ladik": {
+            "iftar": "'19:13'",
+            "sahur": "'04:29'"
+        },
+        "salipazari": {
+            "iftar": "'19:09'",
+            "sahur": "'04:25'"
+        },
+        "samsun": {
+            "iftar": "'19:12'",
+            "sahur": "'04:27'"
+        },
+        "tekkekoy": {
+            "iftar": "'19:11'",
+            "sahur": "'04:26'"
+        },
+        "terme": {
+            "iftar": "'19:09'",
+            "sahur": "'04:24'"
+        },
+        "vezirkopru": {
+            "iftar": "'19:15'",
+            "sahur": "'04:30'"
+        },
+        "yakakent": {
+            "iftar": "'19:15'",
+            "sahur": "'04:29'"
+        }
+    },
+    "siirt": {
+        "baykan": {
+            "iftar": "'18:47'",
+            "sahur": "'04:13'"
+        },
+        "eruh": {
+            "iftar": "'18:45'",
+            "sahur": "'04:12'"
+        },
+        "kurtalan": {
+            "iftar": "'18:47'",
+            "sahur": "'04:14'"
+        },
+        "pervari": {
+            "iftar": "'18:44'",
+            "sahur": "'04:10'"
+        },
+        "siirt": {
+            "iftar": "'18:46'",
+            "sahur": "'04:13'"
+        },
+        "sirvan": {
+            "iftar": "'18:46'",
+            "sahur": "'04:12'"
+        }
+    },
+    "sinop": {
+        "ayancik": {
+            "iftar": "'19:19'",
+            "sahur": "'04:32'"
+        },
+        "boyabat": {
+            "iftar": "'19:18'",
+            "sahur": "'04:32'"
+        },
+        "dikmen": {
+            "iftar": "'19:16'",
+            "sahur": "'04:30'"
+        },
+        "duragan": {
+            "iftar": "'19:17'",
+            "sahur": "'04:31'"
+        },
+        "erfelek": {
+            "iftar": "'19:18'",
+            "sahur": "'04:31'"
+        },
+        "gerze": {
+            "iftar": "'19:17'",
+            "sahur": "'04:30'"
+        },
+        "sarayduzu": {
+            "iftar": "'19:18'",
+            "sahur": "'04:32'"
+        },
+        "sinop": {
+            "iftar": "'19:17'",
+            "sahur": "'04:29'"
+        },
+        "turkeli": {
+            "iftar": "'19:20'",
+            "sahur": "'04:33'"
+        }
+    },
+    "sivas": {
+        "akincilar": {
+            "iftar": "'19:02'",
+            "sahur": "'04:22'"
+        },
+        "altinyaylas": {
+            "iftar": "'19:08'",
+            "sahur": "'04:30'"
+        },
+        "divrigi": {
+            "iftar": "'19:03'",
+            "sahur": "'04:25'"
+        },
+        "dogansar": {
+            "iftar": "'19:06'",
+            "sahur": "'04:25'"
+        },
+        "gemerek": {
+            "iftar": "'19:11'",
+            "sahur": "'04:33'"
+        },
+        "golova": {
+            "iftar": "'19:01'",
+            "sahur": "'04:21'"
+        },
+        "gurun": {
+            "iftar": "'19:05'",
+            "sahur": "'04:30'"
+        },
+        "hafik": {
+            "iftar": "'19:06'",
+            "sahur": "'04:26'"
+        },
+        "imranli": {
+            "iftar": "'19:03'",
+            "sahur": "'04:23'"
+        },
+        "kangal": {
+            "iftar": "'19:05'",
+            "sahur": "'04:28'"
+        },
+        "koyulhisar": {
+            "iftar": "'19:05'",
+            "sahur": "'04:23'"
+        },
+        "sarkisla": {
+            "iftar": "'19:09'",
+            "sahur": "'04:31'"
+        },
+        "sivas": {
+            "iftar": "'19:07'",
+            "sahur": "'04:28'"
+        },
+        "susehri": {
+            "iftar": "'19:03'",
+            "sahur": "'04:23'"
+        },
+        "ulas": {
+            "iftar": "'19:07'",
+            "sahur": "'04:29'"
+        },
+        "yildizeli": {
+            "iftar": "'19:09'",
+            "sahur": "'04:29'"
+        },
+        "zara": {
+            "iftar": "'19:05'",
+            "sahur": "'04:25'"
+        }
+    },
+    "tekirdag": {
+        "cerkezkoy": {
+            "iftar": "'19:45'",
+            "sahur": "'05:00'"
+        },
+        "corlu": {
+            "iftar": "'19:46'",
+            "sahur": "'05:01'"
+        },
+        "ergene": {
+            "iftar": "'19:46'",
+            "sahur": "'05:01'"
+        },
+        "hayrabolu": {
+            "iftar": "'19:48'",
+            "sahur": "'05:04'"
+        },
+        "kapakli": {
+            "iftar": "'19:45'",
+            "sahur": "'05:00'"
+        },
+        "mereglisi": {
+            "iftar": "'19:45'",
+            "sahur": "'05:01'"
+        },
+        "malkara": {
+            "iftar": "'19:49'",
+            "sahur": "'05:05'"
+        },
+        "saray": {
+            "iftar": "'19:45'",
+            "sahur": "'05:00'"
+        },
+        "sarkoy": {
+            "iftar": "'19:48'",
+            "sahur": "'05:05'"
+        },
+        "tekirdag": {
+            "iftar": "'19:46'",
+            "sahur": "'05:03'"
+        }
+    },
+    "tokat": {
+        "almus": {
+            "iftar": "'19:08'",
+            "sahur": "'04:27'"
+        },
+        "artova": {
+            "iftar": "'19:11'",
+            "sahur": "'04:30'"
+        },
+        "basciftlik": {
+            "iftar": "'19:07'",
+            "sahur": "'04:25'"
+        },
+        "erbaa": {
+            "iftar": "'19:10'",
+            "sahur": "'04:27'"
+        },
+        "niksar": {
+            "iftar": "'19:08'",
+            "sahur": "'04:26'"
+        },
+        "pazar-t": {
+            "iftar": "'19:11'",
+            "sahur": "'04:29'"
+        },
+        "resadiye": {
+            "iftar": "'19:07'",
+            "sahur": "'04:25'"
+        },
+        "sulusaray": {
+            "iftar": "'19:11'",
+            "sahur": "'04:31'"
+        },
+        "tokat": {
+            "iftar": "'19:10'",
+            "sahur": "'04:28'"
+        },
+        "turhal": {
+            "iftar": "'19:12'",
+            "sahur": "'04:30'"
+        },
+        "yesilyurt": {
+            "iftar": "'19:11'",
+            "sahur": "'04:30'"
+        },
+        "zile": {
+            "iftar": "'19:12'",
+            "sahur": "'04:31'"
+        }
+    },
+    "trabzon": {
+        "akcaabat": {
+            "iftar": "'18:58'",
+            "sahur": "'04:14'"
+        },
+        "arakli": {
+            "iftar": "'18:56'",
+            "sahur": "'04:13'"
+        },
+        "arsin": {
+            "iftar": "'18:57'",
+            "sahur": "'04:13'"
+        },
+        "besikduzu": {
+            "iftar": "'19:00'",
+            "sahur": "'04:16'"
+        },
+        "carsibasi": {
+            "iftar": "'18:59'",
+            "sahur": "'04:15'"
+        },
+        "caykara": {
+            "iftar": "'18:55'",
+            "sahur": "'04:12'"
+        },
+        "dernekpazari": {
+            "iftar": "'18:55'",
+            "sahur": "'04:12'"
+        },
+        "duzkoy": {
+            "iftar": "'18:59'",
+            "sahur": "'04:15'"
+        },
+        "hayrat": {
+            "iftar": "'18:55'",
+            "sahur": "'04:11'"
+        },
+        "koprubasi-t": {
+            "iftar": "'18:56'",
+            "sahur": "'04:13'"
+        },
+        "of": {
+            "iftar": "'18:55'",
+            "sahur": "'04:12'"
+        },
+        "salpazari": {
+            "iftar": "'19:00'",
+            "sahur": "'04:16'"
+        },
+        "surmene": {
+            "iftar": "'18:56'",
+            "sahur": "'04:12'"
+        },
+        "tonya": {
+            "iftar": "'18:59'",
+            "sahur": "'04:16'"
+        },
+        "trabzon": {
+            "iftar": "'18:58'",
+            "sahur": "'04:14'"
+        },
+        "vakfikebir": {
+            "iftar": "'19:00'",
+            "sahur": "'04:15'"
+        },
+        "yomra": {
+            "iftar": "'18:57'",
+            "sahur": "'04:13'"
+        }
+    },
+    "tunceli": {
+        "cemisgezek": {
+            "iftar": "'18:59'",
+            "sahur": "'04:22'"
+        },
+        "hozat": {
+            "iftar": "'18:58'",
+            "sahur": "'04:21'"
+        },
+        "nazimiye": {
+            "iftar": "'18:56'",
+            "sahur": "'04:18'"
+        },
+        "ovacik": {
+            "iftar": "'18:58'",
+            "sahur": "'04:20'"
+        },
+        "pertek": {
+            "iftar": "'18:57'",
+            "sahur": "'04:21'"
+        },
+        "pulumur": {
+            "iftar": "'18:56'",
+            "sahur": "'04:17'"
+        },
+        "tunceli": {
+            "iftar": "'18:57'",
+            "sahur": "'04:19'"
+        }
+    },
+    "sanliurfa": {
+        "akcakale": {
+            "iftar": "'18:57'",
+            "sahur": "'04:28'"
+        },
+        "birecik": {
+            "iftar": "'19:01'",
+            "sahur": "'04:31'"
+        },
+        "bozova": {
+            "iftar": "'18:59'",
+            "sahur": "'04:28'"
+        },
+        "ceylanpinar": {
+            "iftar": "'18:53'",
+            "sahur": "'04:23'"
+        },
+        "halfeti": {
+            "iftar": "'19:02'",
+            "sahur": "'04:30'"
+        },
+        "harran": {
+            "iftar": "'18:57'",
+            "sahur": "'04:27'"
+        },
+        "hilvan": {
+            "iftar": "'18:58'",
+            "sahur": "'04:25'"
+        },
+        "sanliurfa": {
+            "iftar": "'18:58'",
+            "sahur": "'04:27'"
+        },
+        "siverek": {
+            "iftar": "'18:56'",
+            "sahur": "'04:24'"
+        },
+        "suruc": {
+            "iftar": "'18:59'",
+            "sahur": "'04:29'"
+        },
+        "viransehir": {
+            "iftar": "'18:54'",
+            "sahur": "'04:23'"
+        }
+    },
+    "usak": {
+        "banaz": {
+            "iftar": "'19:35'",
+            "sahur": "'05:00'"
+        },
+        "esme": {
+            "iftar": "'19:38'",
+            "sahur": "'05:04'"
+        },
+        "karahalli": {
+            "iftar": "'19:36'",
+            "sahur": "'05:01'"
+        },
+        "sivasli": {
+            "iftar": "'19:36'",
+            "sahur": "'05:00'"
+        },
+        "ulubey": {
+            "iftar": "'19:37'",
+            "sahur": "'05:02'"
+        },
+        "usak": {
+            "iftar": "'19:37'",
+            "sahur": "'05:02'"
+        }
+    },
+    "van": {
+        "bahcesaray": {
+            "iftar": "'18:43'",
+            "sahur": "'04:09'"
+        },
+        "baskale": {
+            "iftar": "'18:38'",
+            "sahur": "'04:04'"
+        },
+        "caldiran": {
+            "iftar": "'18:39'",
+            "sahur": "'04:02'"
+        },
+        "catak": {
+            "iftar": "'18:42'",
+            "sahur": "'04:08'"
+        },
+        "edremit-v": {
+            "iftar": "'18:41'",
+            "sahur": "'04:06'"
+        },
+        "ercis": {
+            "iftar": "'18:41'",
+            "sahur": "'04:04'"
+        },
+        "gevas": {
+            "iftar": "'18:42'",
+            "sahur": "'04:07'"
+        },
+        "gurpinar": {
+            "iftar": "'18:40'",
+            "sahur": "'04:06'"
+        },
+        "muradiye": {
+            "iftar": "'18:40'",
+            "sahur": "'04:03'"
+        },
+        "ozalp": {
+            "iftar": "'18:38'",
+            "sahur": "'04:03'"
+        },
+        "saray-v": {
+            "iftar": "'18:38'",
+            "sahur": "'04:02'"
+        },
+        "van": {
+            "iftar": "'18:41'",
+            "sahur": "'04:06'"
+        }
+    },
+    "yozgat": {
+        "akdagmadeni": {
+            "iftar": "'19:12'",
+            "sahur": "'04:33'"
+        },
+        "aydincik-y": {
+            "iftar": "'19:15'",
+            "sahur": "'04:34'"
+        },
+        "bogazliyan": {
+            "iftar": "'19:14'",
+            "sahur": "'04:36'"
+        },
+        "candir": {
+            "iftar": "'19:13'",
+            "sahur": "'04:35'"
+        },
+        "cayiralan": {
+            "iftar": "'19:12'",
+            "sahur": "'04:35'"
+        },
+        "cekerek": {
+            "iftar": "'19:14'",
+            "sahur": "'04:33'"
+        },
+        "kadisehri": {
+            "iftar": "'19:12'",
+            "sahur": "'04:32'"
+        },
+        "saraykent": {
+            "iftar": "'19:13'",
+            "sahur": "'04:34'"
+        },
+        "sarikaya": {
+            "iftar": "'19:14'",
+            "sahur": "'04:35'"
+        },
+        "sefaatli": {
+            "iftar": "'19:16'",
+            "sahur": "'04:38'"
+        },
+        "sorgun": {
+            "iftar": "'19:15'",
+            "sahur": "'04:35'"
+        },
+        "yenifakili": {
+            "iftar": "'19:15'",
+            "sahur": "'04:37'"
+        },
+        "yerkoy": {
+            "iftar": "'19:17'",
+            "sahur": "'04:38'"
+        },
+        "yozgat": {
+            "iftar": "'19:16'",
+            "sahur": "'04:37'"
+        }
+    },
+    "zonguldak": {
+        "alapli": {
+            "iftar": "'19:31'",
+            "sahur": "'04:47'"
+        },
+        "caycuma": {
+            "iftar": "'19:29'",
+            "sahur": "'04:43'"
+        },
+        "devrek": {
+            "iftar": "'19:29'",
+            "sahur": "'04:44'"
+        },
+        "gokcebey": {
+            "iftar": "'19:28'",
+            "sahur": "'04:43'"
+        },
+        "karadeniz-eregli": {
+            "iftar": "'19:31'",
+            "sahur": "'04:46'"
+        },
+        "zonguldak": {
+            "iftar": "'19:30'",
+            "sahur": "'04:44'"
+        }
+    },
+    "aksaray": {
+        "agacoren": {
+            "iftar": "'19:19'",
+            "sahur": "'04:43'"
+        },
+        "aksaray": {
+            "iftar": "'19:18'",
+            "sahur": "'04:43'"
+        },
+        "eskil": {
+            "iftar": "'19:20'",
+            "sahur": "'04:46'"
+        },
+        "gulagac": {
+            "iftar": "'19:17'",
+            "sahur": "'04:42'"
+        },
+        "guzelyurt": {
+            "iftar": "'19:17'",
+            "sahur": "'04:42'"
+        },
+        "ortakoy": {
+            "iftar": "'19:18'",
+            "sahur": "'04:42'"
+        },
+        "sariyahsi": {
+            "iftar": "'19:19'",
+            "sahur": "'04:43'"
+        },
+        "sultanhani": {
+            "iftar": "'19:20'",
+            "sahur": "'04:45'"
+        }
+    },
+    "bayburt": {
+        "aydintepe": {
+            "iftar": "'18:55'",
+            "sahur": "'04:14'"
+        },
+        "bayburt": {
+            "iftar": "'18:55'",
+            "sahur": "'04:14'"
+        },
+        "demirozu": {
+            "iftar": "'18:56'",
+            "sahur": "'04:15'"
+        }
+    },
+    "karaman": {
+        "ayranci": {
+            "iftar": "'19:18'",
+            "sahur": "'04:47'"
+        },
+        "basyayla": {
+            "iftar": "'19:22'",
+            "sahur": "'04:53'"
+        },
+        "ermenek": {
+            "iftar": "'19:21'",
+            "sahur": "'04:52'"
+        },
+        "karaman": {
+            "iftar": "'19:20'",
+            "sahur": "'04:49'"
+        },
+        "kazimkarabekir": {
+            "iftar": "'19:21'",
+            "sahur": "'04:50'"
+        },
+        "sariveliler": {
+            "iftar": "'19:22'",
+            "sahur": "'04:53'"
+        }
+    },
+    "kirikkale": {
+        "baliseyh": {
+            "iftar": "'19:21'",
+            "sahur": "'04:41'"
+        },
+        "celebi": {
+            "iftar": "'19:21'",
+            "sahur": "'04:43'"
+        },
+        "delice": {
+            "iftar": "'19:19'",
+            "sahur": "'04:39'"
+        },
+        "karakecili": {
+            "iftar": "'19:22'",
+            "sahur": "'04:43'"
+        },
+        "keskin": {
+            "iftar": "'19:21'",
+            "sahur": "'04:42'"
+        },
+        "kirikkale": {
+            "iftar": "'19:21'",
+            "sahur": "'04:42'"
+        },
+        "sulakyurt": {
+            "iftar": "'19:21'",
+            "sahur": "'04:40'"
+        }
+    },
+    "batman": {
+        "batman": {
+            "iftar": "'18:49'",
+            "sahur": "'04:16'"
+        },
+        "besiri": {
+            "iftar": "'18:49'",
+            "sahur": "'04:15'"
+        },
+        "gercus": {
+            "iftar": "'18:48'",
+            "sahur": "'04:16'"
+        },
+        "hasankeyf": {
+            "iftar": "'18:48'",
+            "sahur": "'04:15'"
+        },
+        "kozluk": {
+            "iftar": "'18:48'",
+            "sahur": "'04:14'"
+        },
+        "sason": {
+            "iftar": "'18:48'",
+            "sahur": "'04:14'"
+        }
+    },
+    "sirnak": {
+        "beytussebap": {
+            "iftar": "'18:41'",
+            "sahur": "'04:09'"
+        },
+        "cizre": {
+            "iftar": "'18:44'",
+            "sahur": "'04:13'"
+        },
+        "guclukonak": {
+            "iftar": "'18:46'",
+            "sahur": "'04:14'"
+        },
+        "idil": {
+            "iftar": "'18:46'",
+            "sahur": "'04:14'"
+        },
+        "silopi": {
+            "iftar": "'18:43'",
+            "sahur": "'04:12'"
+        },
+        "sirnak": {
+            "iftar": "'18:44'",
+            "sahur": "'04:12'"
+        },
+        "uludere": {
+            "iftar": "'18:42'",
+            "sahur": "'04:10'"
+        }
+    },
+    "bartin": {
+        "bartin": {
+            "iftar": "'19:28'",
+            "sahur": "'04:42'"
+        },
+        "kurucasile": {
+            "iftar": "'19:27'",
+            "sahur": "'04:39'"
+        },
+        "ulus": {
+            "iftar": "'19:27'",
+            "sahur": "'04:41'"
+        }
+    },
+    "ardahan": {
+        "ardahan": {
+            "iftar": "'18:46'",
+            "sahur": "'04:02'"
+        },
+        "cildir": {
+            "iftar": "'18:44'",
+            "sahur": "'04:00'"
+        },
+        "damal": {
+            "iftar": "'18:46'",
+            "sahur": "'04:00'"
+        },
+        "gole": {
+            "iftar": "'18:46'",
+            "sahur": "'04:03'"
+        },
+        "hanak": {
+            "iftar": "'18:45'",
+            "sahur": "'04:01'"
+        },
+        "posof": {
+            "iftar": "'18:46'",
+            "sahur": "'04:00'"
+        }
+    },
+    "igdir": {
+        "aralik": {
+            "iftar": "'18:37'",
+            "sahur": "'03:58'"
+        },
+        "igdir": {
+            "iftar": "'18:39'",
+            "sahur": "'03:59'"
+        },
+        "karakoyunlu": {
+            "iftar": "'18:39'",
+            "sahur": "'03:59'"
+        },
+        "tuzluca": {
+            "iftar": "'18:41'",
+            "sahur": "'04:01'"
+        }
+    },
+    "yalova": {
+        "altinova": {
+            "iftar": "'19:38'",
+            "sahur": "'04:55'"
+        },
+        "armutlu": {
+            "iftar": "'19:41'",
+            "sahur": "'04:59'"
+        },
+        "cinarcik": {
+            "iftar": "'19:40'",
+            "sahur": "'04:57'"
+        },
+        "termal": {
+            "iftar": "'19:39'",
+            "sahur": "'04:57'"
+        },
+        "yalova": {
+            "iftar": "'19:39'",
+            "sahur": "'04:57'"
+        }
+    },
+    "karabuk": {
+        "eflani": {
+            "iftar": "'19:25'",
+            "sahur": "'04:40'"
+        },
+        "eskipazar": {
+            "iftar": "'19:26'",
+            "sahur": "'04:43'"
+        },
+        "karabuk": {
+            "iftar": "'19:26'",
+            "sahur": "'04:42'"
+        },
+        "ovacik-k": {
+            "iftar": "'19:25'",
+            "sahur": "'04:41'"
+        },
+        "yenice-k": {
+            "iftar": "'19:27'",
+            "sahur": "'04:43'"
+        }
+    },
+    "kilis": {
+        "elbeyli": {
+            "iftar": "'19:03'",
+            "sahur": "'04:33'"
+        },
+        "kilis": {
+            "iftar": "'19:04'",
+            "sahur": "'04:35'"
+        },
+        "musabeyli": {
+            "iftar": "'19:05'",
+            "sahur": "'04:35'"
+        },
+        "polateli": {
+            "iftar": "'19:04'",
+            "sahur": "'04:34'"
+        }
+    },
+    "osmaniye": {
+        "bahce": {
+            "iftar": "'19:07'",
+            "sahur": "'04:36'"
+        },
+        "duzici": {
+            "iftar": "'19:07'",
+            "sahur": "'04:36'"
+        },
+        "hasanbeyli": {
+            "iftar": "'19:07'",
+            "sahur": "'04:36'"
+        },
+        "kadirli": {
+            "iftar": "'19:09'",
+            "sahur": "'04:37'"
+        },
+        "osmaniye": {
+            "iftar": "'19:08'",
+            "sahur": "'04:38'"
+        },
+        "sumbas": {
+            "iftar": "'19:09'",
+            "sahur": "'04:38'"
+        },
+        "toprakkale": {
+            "iftar": "'19:08'",
+            "sahur": "'04:38'"
+        }
+    },
+    "duzce": {
+        "akcakoca": {
+            "iftar": "'19:32'",
+            "sahur": "'04:48'"
+        },
+        "cilimli": {
+            "iftar": "'19:32'",
+            "sahur": "'04:49'"
+        },
+        "cumayeri": {
+            "iftar": "'19:33'",
+            "sahur": "'04:49'"
+        },
+        "duzce": {
+            "iftar": "'19:32'",
+            "sahur": "'04:48'"
+        },
+        "golyaka": {
+            "iftar": "'19:32'",
+            "sahur": "'04:49'"
+        },
+        "gumusova": {
+            "iftar": "'19:33'",
+            "sahur": "'04:49'"
+        },
+        "kaynasli": {
+            "iftar": "'19:31'",
+            "sahur": "'04:48'"
+        },
+        "yigilca": {
+            "iftar": "'19:31'",
+            "sahur": "'04:48'"
+        }
+    }
+}
