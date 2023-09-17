@@ -1,5 +1,5 @@
 from pyrogram import Client, filters
-from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, Message
 from config import *
 from db_code import veri_tabanindan_getirme
 import asyncio
@@ -19,7 +19,7 @@ bot = Client('ayet_bot',api_hash=api_hash, api_id=api_id, bot_token=BOT_TOKEN)
 
 
 @bot.on_message(filters.command('start'))
-async def start(bot, message):
+async def start(bot:Client, message:Message):
     chat_id = message.chat.id
     name = message.from_user.first_name.replace("'", "").replace('"', '')
     user_id = message.from_user.id
@@ -39,7 +39,7 @@ async def start(bot, message):
         gk.db_yazici(id=user_id, firstname=name, username=username)
 
 @bot.on_message(filters.command('ayet'))
-async def ayet(bot, message):
+async def ayet(bot:Client, message:Message):
     chat_id = message.chat.id
     try:
         random_sayı = random.randint(0, 112)
@@ -54,9 +54,9 @@ async def ayet(bot, message):
                 ayet = random.choice(veri_tabanindan_getirme(kolon='ayetler', istenilenveri=random_sayı).replace("'", "").replace(r'\n', '\n').replace(r'\r', '').split('***'))
                 await bot.send_message(chat_id, str(ayet))
             except Exception as e:
-                await bot.send_message(log_grup, f"Tanımsız hata Ayet komutu\n{e}")
+                await bot.send_message(log_grup, f"#hata\nTanımsız hata Ayet komutu\n{e}")
     except Exception as e:
-        await bot.send_message(log_grup, f"Tanımsız hata Ayet komutu\n{e}")
+        await bot.send_message(log_grup, f"#hata\nTanımsız hata Ayet komutu\n{e}")
     try:    
         await log_gonder(bot=bot, message=message)
     except:
@@ -64,7 +64,7 @@ async def ayet(bot, message):
         
 
 @bot.on_message(filters.regex('imanla bizi'))
-async def imanpower(bot, message):
+async def imanpower(bot:Client, message:Message):
     chat_id = message.chat.id
     random_sayı = random.randint(0, 112)
     ayet = random.choice(veri_tabanindan_getirme(kolon='ayetler', istenilenveri=random_sayı).replace("'", "").replace(r'\n', '\n').replace(r'\r', '').split('***'))
@@ -90,8 +90,9 @@ with open('../ayetbot/sehirler_ilceler_kod.json', 'r') as f:
     sehirler_ilceler_kod = json.load(f)
 
 kısa_sehir_dict = {'maras':'kahramanmaras', 'afyon':'afyonkarahisar', 'ist':'istanbul', 'antep':'gaziantep', 'urfa':'sanliurfa', 'izmit':'kocaeli'}
+
 @bot.on_message(filters.command('ezan'))
-async def ezan(bot, message):
+async def ezan(bot:Client, message:Message):
     chat_id = message.chat.id
     user_id = message.from_user.id
     try:
@@ -131,7 +132,7 @@ Hicri: {tarih_hicri_miladi[5][1:]} {tarih_hicri_miladi[6]} {tarih_hicri_miladi[7
 
 import gruplar_db.kullanıcı_sehir_db_code as kullanıcı_sehir
 @bot.on_message(filters.command('sahur'))
-async def sahur(bot, message):
+async def sahur(bot:Client, message:Message):
     chat_id = message.chat.id
     user_id = message.from_user.id
     firstname = str(message.from_user.first_name).replace("'", "")
@@ -247,7 +248,7 @@ async def sahur(bot, message):
     except:
         pass
 denenen_sayı = 0
-async def yollama(bot, message, idler):
+async def yollama(bot:Client, message:Message, idler):
     global denenen_sayı
     try: 
         sayı = 0
@@ -301,7 +302,7 @@ async def yollama(bot, message, idler):
         await message.reply(f"başaramadık knk. genel hata = {e}")
 
 @bot.on_message(filters.command('hduyuru')&admin_filter)
-async def yolla(bot, message):
+async def yolla(bot:Client, message:Message):
     grup_idler = gg.kategoriye_göre_veri_listesi()
     kullanıcı_idler = gk.kategoriye_göre_veri_listesi()
     if 'deneme' in str(message.text).lower():
@@ -337,7 +338,7 @@ async def audio(bot, message):
 #        await message.reply(str(e))
 
 @bot.on_message(filters.command('iftar'))
-async def iftar(bot, message):
+async def iftar(bot:Client, message:Message):
     chat_id = message.chat.id
     user_id = message.from_user.id
     firstname = str(message.from_user.first_name).replace("'", "")
@@ -455,7 +456,7 @@ async def iftar(bot, message):
         pass
 
 @bot.on_callback_query()
-async def butonlar(bot, CallbackQuery):
+async def butonlar(bot:Client, CallbackQuery):
     data = CallbackQuery.data
     chat_id = CallbackQuery.message.chat.id
     callback_id = CallbackQuery.id
@@ -498,7 +499,7 @@ async def butonlar(bot, CallbackQuery):
         pass
 
 @bot.on_message(filters.command('sure'))
-async def sure(bot, message):
+async def sure(bot:Client, message:Message):
     chat_id = message.chat.id
     user_id = message.from_user.id
     try:
@@ -514,7 +515,7 @@ async def sure(bot, message):
     
     
 @bot.on_message(filters.photo & filters.private)
-async def photo(bot, message):
+async def photo(bot:Client, message:Message):
     chat_id = message.chat.id
     photo_id = message.photo.file_id
     await bot.send_message(chat_id, f"<code>{photo_id}</code>")
@@ -532,7 +533,7 @@ async def ayet_gonderici():
         now = str(now.time())[0:8]
         uzatma_süresi = 60 #0.999
         if now[0:5] in ayet_saatler:
-            await bot.send_message(me, 'aaa')
+            await bot.send_message(bot_owner, 'aaa')
             try:
                 random_sayı = random.randint(0, 112)
                 ayet = random.choice(veri_tabanindan_getirme(kolon='ayetler', istenilenveri=random_sayı).replace("'", "").replace(r'\n', '\n').replace(r'\r', '').split('***'))
@@ -595,8 +596,8 @@ async def ayet_gonderici():
 #asyncio.run(ayet_gonderici())
 
 @bot.on_message(filters.command('gruplar') & filters.private & admin_filter)
-async def gruplar(bot, message):
-    await bot.send_message(me, str(gg.kategoriye_göre_veri_listesi()))
+async def gruplar(bot:Client):
+    await bot.send_message(bot_owner, str(gg.kategoriye_göre_veri_listesi()))
 
 
 import gruplar_db.gruplar_db_code as gg
@@ -638,7 +639,7 @@ async def reset_at(hard_reset = False):
 
 
 @bot.on_message(filters.command('res') & filters.private & admin_filter)
-async def resres(bot, message):
+async def resres(bot:Client, message:Message):
     text = ''
     text = message.text.replace('/res ', '')
     if text == 'hard':
@@ -650,7 +651,7 @@ async def resres(bot, message):
 
 
 @bot.on_message(filters.command('totaluser') & admin_filter)
-async def totaluser(bot, message):
+async def totaluser(bot:Client, message:Message):
     chat_id = message.chat.id
     gruplar_sayı = str(len(gg.kategoriye_göre_veri_listesi()))
     kullanici_sayisi = str(len(gk.kategoriye_göre_veri_listesi()))
