@@ -84,9 +84,9 @@ def turkce_karakterleri_duzelt(girdi, karakter_sozlugu=None):
 
 import json
 
-with open('../ayetbot/text_iftar_sahur.json', 'r') as f:
+with open('text_iftar_sahur.json', 'r') as f:
     sehir_ilce_iftar_sahur = json.load(f)
-with open('../ayetbot/sehirler_ilceler_kod.json', 'r') as f:
+with open('sehirler_ilceler_kod.json', 'r') as f:
     sehirler_ilceler_kod = json.load(f)
 
 kısa_sehir_dict = {'maras':'kahramanmaras', 'afyon':'afyonkarahisar', 'ist':'istanbul', 'antep':'gaziantep', 'urfa':'sanliurfa', 'izmit':'kocaeli'}
@@ -587,7 +587,7 @@ async def ayet_gonderici():
                 continue
         if now[0:5] == '00:11':
             await bot.send_message(admin_grup, 'vakitler yenileniyor')
-            await asyncio.create_subprocess_shell('sudo python3 /ayetbot/test.py')
+            await asyncio.create_subprocess_shell('sudo python3 /iftar-sahur-ayet-bot/test.py')
             await bot.send_message(admin_grup, 'vakitler yenilendi')
         await bot.send_document(admin_grup, 'ayet_gonderici_log.txt')
         os.remove('ayet_gonderici_log.txt')
@@ -664,4 +664,5 @@ print('bot run')
 bot.run()
 #if __name__ == '__main__':
 #    bot.run(ayet_gonderici())
+
 
