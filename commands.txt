@@ -1,0 +1,5 @@
+start - Botu başlatır
+ayet - Kuran'ı Kerim'den ayetler atar
+ezan - <sehir ismi> Ezan vaktini gösterir
+sahur - <sehir ismi> Sahur vaktini gösterir
+iftar - <sehir ismi> İftar vaktini gösterir
