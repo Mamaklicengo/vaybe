@@ -298,6 +298,7 @@ async def yollama(bot:Client, message:Message, idler):
         await bot.send_message(message.chat.id, f'Yollama bitti. Toplam gönderilen:{sayı}')
         await bot.send_document(message.chat.id, 'yollama_log.txt')
         os.remove('yollama_log.txt')
+        denenen_sayı  = 0
     except Exception as e:
         await message.reply(f"başaramadık knk. genel hata = {e}")
 
