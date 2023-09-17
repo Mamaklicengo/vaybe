@@ -596,7 +596,7 @@ async def ayet_gonderici():
 #asyncio.run(ayet_gonderici())
 
 @bot.on_message(filters.command('gruplar') & filters.private & admin_filter)
-async def gruplar(bot:Client):
+async def gruplar(bot:Client, message):
     await bot.send_message(bot_owner, str(gg.kategoriye_göre_veri_listesi()))
 
 
