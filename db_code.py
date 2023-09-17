@@ -1,6 +1,6 @@
 import sqlite3
 
-con = sqlite3.connect('../ayetbot/kuran_sureler_ayetler.db')
+con = sqlite3.connect('kuran_sureler_ayetler.db')
 
 cur = con.cursor()
 try:
