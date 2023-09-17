@@ -6,10 +6,10 @@ BOT_TOKEN = config.get("BOT_TOKEN", None)
 api_hash= config.get("api_hash", None)
 api_id = config.get("api_id", None)
 from pyrogram import filters
-diyanet = config.get("diyanet", None)
+diyanet = "https://kuran.diyanet.gov.tr"
 kuran_sure = 'https://kuran.diyanet.gov.tr/Tefsir/'
 kuran_api = 'https://api.acikkuran.com/authors'
-ezan_vakitleri = config.get("ezan_vakitleri", None)
+ezan_vakitleri = "https://namazvakitleri.diyanet.gov.tr/tr-TR"
 
 
 bot_owner = config.get("bot_owner", None)
