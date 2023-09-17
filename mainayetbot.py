@@ -614,7 +614,7 @@ async def new_chat(bot, message):
         link = ""
         if grup_username != None:
             link = f"t.me/{grup_username}"
-        await bot.send_message(log_grup, f"👥 <a href='{link}'>{chat_title}</a> (<code>{chat_id}</code>) ⟶ {len(grup_idler)}", disable_web_page_preview=True)
+        await bot.send_message(log_grup, f"👥 <a href='{link}'>{chat_title}</a> (<code>{chat_id}</code>) ⟶ {len(grup_idler)+1}", disable_web_page_preview=True)
 
 
 import os
