@@ -1,4 +1,5 @@
 <h1>👉 Botun Amacı 👈</h1>
+
 > Botun amacı ramazan aylarında telegramdan kolayca iftar sahur vakitlerini öğrenebilmenin yanısıra
 > normal ezan vakitlerini, namaz surelenini, kuran-ı kerim ayetlerini kolayca sizlere sunmaktır.
 
