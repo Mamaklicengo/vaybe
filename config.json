@@ -1,9 +1,49 @@
 {
-    "BOT_TOKEN" : "",
-    "api_id" : 0,
-    "api_hash" : "",
-    "bot_owner" : 0,
-    "log_grup" : 0,
-    "admin_grup" : 0,
-    "admins" : []
-}
+    "name": "IftarSahurBot",
+    "description": "iftar ve sahur vakitleri için basit telegram botu",
+    "keywords": [
+        "telegram",
+        "iftar",
+        "sahur",
+        "ramazan",
+        "ezan"
+    ],
+    "repository": "https://github.com/ali-mmagneto/RamazanBot",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "@BotFather'dan alın",
+            "required": true
+        },
+        "bot_owner": {
+            "description": "Senin Kullanıcı Adın.",
+            "required": true
+        },
+        "log_grup": {
+            "description": "https://my.telegram.org/apps adresinden alın",
+            "required": true
+        },
+
+        "admin_grup": {
+            "description": "https://my.telegram.org/apps adresinden alın",
+            "required": true
+        },
+
+        "api_id": {
+            "description": "https://my.telegram.org/apps adresinden alın",
+            "required": true
+        },
+        "admins": {
+            "description": "https://my.telegram.org/apps adresinden alın",
+            "required": true
+        },
+        "api_hash": {
+            "description": "https://my.telegram.org/apps adresinden alın",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+} 
