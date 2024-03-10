@@ -1,1 +1,1 @@
-worker : python mainayetbot.py
+web: python mainayetbot.py
