@@ -1,7 +1,7 @@
 import json
 from pyrogram import filters
 
-with open("config.json", "r") as f:
+with open("app.json", "r") as f:
     config = json.load(f)
 
 BOT_TOKEN = config.get("BOT_TOKEN", None)
