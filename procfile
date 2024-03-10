@@ -1,1 +1,1 @@
-worker : python3 mainayetbot.py
+worker : python mainayetbot.py
