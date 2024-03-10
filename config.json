@@ -1,9 +1,9 @@
 {
-    "BOT_TOKEN" : "",
-    "api_id" : 0,
-    "api_hash" : "",
-    "bot_owner" : 0,
-    "log_grup" : 0,
-    "admin_grup" : 0,
-    "admins" : []
+    "BOT_TOKEN" : "6531499751:AAGHzxki3QsflZqnh3wnk_1qF-yZE5YJxtw",
+    "api_id" : 21119132,
+    "api_hash" : "c0a90d0ba66e6bdea356894a55f4856e",
+    "bot_owner" : 6532412571 ,
+    "log_grup" : -1001654938309,
+    "admin_grup" : -1001654938309,
+    "admins" : [6532412571]
 }
