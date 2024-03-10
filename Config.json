@@ -1,0 +1,9 @@
+{
+    "BOT_TOKEN" : "",
+    "api_id" : 0,
+    "api_hash" : "",
+    "bot_owner" : 0,
+    "log_grup" : 0,
+    "admin_grup" : 0,
+    "admins" : []
+}
